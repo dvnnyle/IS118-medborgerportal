@@ -7,7 +7,7 @@ UIA - gruppe 14
 Members:
 
 - Danny Nguyen Le
-- 
+- Jonas Likværn(Likiftw)
 - 
 - 
 - 
