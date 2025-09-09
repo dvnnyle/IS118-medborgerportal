@@ -8,7 +8,7 @@ Members:
 
 - Danny Nguyen Le
 - Jonas Likværn(Likiftw)
-- 
+- Joseph Trung Minh Pham
 - 
 - 
 - 
