@@ -1,7 +1,7 @@
 # IS118-medborgerportal
 ![UIA](https://img.shields.io/badge/UIA-red) ![UIA](https://img.shields.io/badge/IS108-Programmering%20og%20prosjektsamarbeid-green) ![g14](https://img.shields.io/badge/G14-purple)
 
-### ⚡ Task: [IS118 Medborgerportal Task](https://github.com/dvnnyle/IS118-medborgerportal/blob/danny/README.md)
+### ⚡ Task: [IS118 Medborgerportal Task](https://github.com/dvnnyle/IS118-medborgerportal/blob/danny/document.md)
 
 
 
