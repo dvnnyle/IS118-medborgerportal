@@ -10,6 +10,6 @@ Members:
 - Jonas Likværn(Likiftw)
 - Joseph Trung Minh Pham
 - Hans Georg Hjelmeland
-- 
+- Martin Torkelsen
 - 
 
