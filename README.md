@@ -7,9 +7,9 @@ UIA - gruppe 14
 Members:
 
 - Danny Nguyen Le
-- 
-- 
-- 
-- 
-- 
+- Jonas Likværn(Likiftw)
+- Joseph Trung Minh Pham
+- Niklas Jordal
+- Hans Georg Hjelmeland
+- Martin Torkelsen
 
