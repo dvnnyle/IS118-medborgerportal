@@ -26,6 +26,9 @@ Et sammensveiset team kan raskt etablere effektive arbeidsrutiner og bruke mindr
 
 ### Design av "det første møtet
 
+test
+
+
 ### Rammer for relasjonelle kontrakter
 
 ### Proaktive mekanismer for konflikthåndtering
