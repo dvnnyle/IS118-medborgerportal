@@ -2,7 +2,7 @@
 UIA - gruppe 14
 
 
-# Group 14 aka skibidi 14
+# Skibidi 14
 
 Members:
 
