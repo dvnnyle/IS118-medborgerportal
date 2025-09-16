@@ -53,8 +53,8 @@ Mot slutten av møtet får hvert medlem formulere hva de ser på som prosjektets
 
 ### Proaktive mekanismer for konflikthåndtering
 
-### Håndtering av tidspress og "planleggingsfellen
-TEst test
+### Håndtering av tidspress og "planleggingsfellen - Niklas
+
 ### Sikring av god kommunikasjon
 
 I et prosjektarbeid, som i alle aspekter i livet, er god kommunikasjon viktig for å forstå målene i arbeidet og hva som forventes av hver enkelt som er en del av prosjektet.
