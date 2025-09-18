@@ -54,7 +54,18 @@ Mot slutten av møtet får hvert medlem formulere hva de ser på som prosjektets
 ### Proaktive mekanismer for konflikthåndtering
 
 ### Håndtering av tidspress og "planleggingsfellen
-I ett hvert prosjekt er håndtering av tidsrammene som oppgavene må bli løst innen en vital del av utføringen og planleggingen av oppgaven. Prosjektleder og individene innen hver avdeling må planlegge og forutse tidsbruk til enhver oppgave de tar. 
+I ett hvert prosjekt er håndtering av tidsrammene som oppgavene må bli løst innen en vital del av utføringen og planleggingen av oppgaven. Prosjektleder og individene innen hver avdeling må planlegge og forutse tidsbruk til enhver oppgave de tar. For å sikre en god fordeling av tidsbruk og sikre at målene gruppen har satt seg blir nådd er det viktig og sette seg klare mål og ta i bruk konkrete metoder for å sikre at tid ikke blir et problem.
+**Tidspress** - Tidspress er noe som påvirker alt av arbeid som må bli løst innen en satt periode, uten god planlegging og estimering av oppgaver kan tidsrammene for oppgaven forårskape at man enten ikke klarer å fullføre eller påvirke kvaliteten av arbeidet utført. For å overkomme dette er det viktig og ta i bruk flere teknikker og metoder for å få til det ønskete resultatet. 
+**Anbefaling** for å unngå at tidspress blir et problem, anbefaler vi at prosjekt leder og teamet holder tett kontakt og setter konkrete tidsrammer for hver del av prosjektet. Dette vil føre til at laget vet hva som er forventet til hvilken tid og kan fokusere på å nå kriteriene for hver deadline. I tilleg anbefales det å legge inn en buffertid for uforsigbare hendelser som eventuelt kan oppstå under arbeid. Dette gir laget og prosjektleder puste rom ved uforsigbare hendelser og gjør det lettere å jobbe sikkert. Videre er det relevant for prosjektleder og inkludere laget i estimeringsprossesen av tiden brukt for prosjektet. Dette vil gi breder fagkompetanse og som oftest kjenner laget selv hvor lang tid som er nædvendig for hver oppgave. 
+**Planleggingsfellen** Prosjekter av denne skalaen med flere avdelinger og bred fag kunnskap har flere utfordringer som prosjektlederen må ta hånd om for å sikre at prosjektet går som planlagt. Ett av disse er å forutse forskjellige "feller" som prosjektet kan falle inn i, Disse inkluderer:
+- feil estemering av tid til enhver oppgave.
+- feil kommunikasjon mellom avdelinger eller lite kommunikasjon.
+- Dårlig bruk av fag kompetanse, avdelinger og ..
+- prokrastinering
+- dårlig informasjons flyt mellom ledelser og avdelinger.
+
+  **TIDLIG DRAFT SKAL FIKSE OG OM SKRIVE, MÅTTE BARE FÅ NED FOR Å BEGYNNE PROSESSEN**
+  
 ### Sikring av god kommunikasjon
 
 I et prosjektarbeid, som i alle aspekter i livet, er god kommunikasjon viktig for å forstå målene i arbeidet og hva som forventes av hver enkelt som er en del av prosjektet.
