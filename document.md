@@ -54,7 +54,7 @@ Mot slutten av møtet får hvert medlem formulere hva de ser på som prosjektets
 ### Proaktive mekanismer for konflikthåndtering
 
 ### Håndtering av tidspress og "planleggingsfellen
-TEst test
+I ett hvert prosjekt er håndtering av tidsrammene som oppgavene må bli løst innen en vital del av utføringen og planleggingen av oppgaven. Prosjektleder og individene innen hver avdeling må planlegge og forutse tidsbruk til enhver oppgave de tar. 
 ### Sikring av god kommunikasjon
 
 I et prosjektarbeid, som i alle aspekter i livet, er god kommunikasjon viktig for å forstå målene i arbeidet og hva som forventes av hver enkelt som er en del av prosjektet.
