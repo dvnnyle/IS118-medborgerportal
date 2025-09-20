@@ -53,7 +53,7 @@ Mot slutten av møtet får hvert medlem formulere hva de ser på som prosjektets
 
 ### Proaktive mekanismer for konflikthåndtering
 
-### Håndtering av tidspress og "planleggingsfellen
+### Håndtering av tidspress og "planleggingsfellen - Niklas
 
 ### Sikring av god kommunikasjon
 
