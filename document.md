@@ -53,9 +53,22 @@ Mot slutten av møtet får hvert medlem formulere hva de ser på som prosjektets
 
 ### Proaktive mekanismer for konflikthåndtering
 
-### Håndtering av tidspress og "planleggingsfellen
+### Håndtering av tidspress og "planleggingsfellen - Niklas
 
 ### Sikring av god kommunikasjon
+
+I et prosjektarbeid, som i alle aspekter i livet, er god kommunikasjon viktig for å forstå målene i arbeidet og hva som forventes av hver enkelt som er en del av prosjektet.
+Et prosjekt består som oftest av flere mennesker samlet og kan ses på som et lag. Det som kjennetegner et godt lag, er først og fremst at de har en tett og åpen kommunikasjon mellom hverandre (Jacobsen, 2016 s. 82). God kommunikasjon handler også om å bygge motivasjon. Hvordan skaper og opprettholder man da god kommunikasjon i et prosjekt? Det er viktig med klare mål og forventninger helt fra starten av. Et oppstartsmøte hvor mål, roller og ansvar til hver enkelt gjennomgås er en god måte å starte på. Det å fordele roller og ansvar tidlig gjennom kommunikasjon vil bidra til mindre misforståelser og bedre effektivitet. Videre i prosjektet kan regelmessige møter/statusoppdateringer opprettholde kommunikasjonen i prosjektet. Ha ukentlige, korte møter med oppdateringer slik at alle vet hva som er gjort i prosjektet til nå, hva som gjenstår og eventuelle utfordringer som prosjektet står i. Dette kan bidra til at alle parter i prosjektet føler at de er med på hele prosjektet selv om de har sine roller og ansvar. I slike møter kan man også legge til rette rundt åpenhet, og rett og slett oppmuntre parter til å si ifra om utfordringer og om de føler om det er noe galt. Det å lytte til alle og være mottakelig for tilbakemeldinger fra alle parter og til alle parter vil kunne bidra til tillit. 
+
+Men hvordan legger man til rette for åpen kommunikasjon? Dag Ingvar Jacobsen har 5 forutsetninger for å få det til. (Jacobsen, 2016 s. 82).
+- Inkludering. Dette innebærer at alle parter i prosjektet har mulighet til å kunne fremme sine synspunkter. 
+- Kompetanse. Man må være i stand til å presentere sine synspunkter og til å kritisere andre synspunkter.
+- Empati. Alle parter må være villig til å lytte til andres synspunkter.
+- Nøytralitet. Ingen skal være redd for å få straff for å fremme sine synspunkter. 
+- Åpenhet. I en diskusjon bør alle synspunkter fremmes. Strategisk atferd som å skjule informasjon fra andre parter eller å lyve innad i prosjektet må unngås.
+
+Utenom ukentlige møter er god kommunikasjon gjennom riktige kanaler og verktøy viktig for å ha den daglige kommunikasjonen i tillegg. Gode eksempler på kanaler er blant annet Teams og Slack. Teams er en plattform som kombinerer blant annet video og tekstmeldinger i et arbeidsområde, mens Slack er en samarbeidsplattform som bringer for eksempel prosjekter sammen. Slack bruker kanaler for samarbeid og kommunikasjon. Alle parter bør ha opplæring i disse kanalene slik at disse kan bli brukt effektivt. 
+
 
 
 
