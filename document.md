@@ -87,7 +87,9 @@ Ved å kombinere tydelige strukturer med fokus på tillit og trygghet, legger Er
 for at portalen blir ferdig i tide og innenfor budsjett, og at den faktisk skaper mer engasjement hos innbyggerne.
 
 *Rousseau, D. M. (1995). Psychological Contracts in Organizations: Understanding Written and Unwritten Agreements.
+
 *Katz, D., & Kahn, R. L. (1978). The Social Psychology of Organizations.
+
 *Edmondson, A. (1999). Psychological safety and learning behavior in work teams. Administrative Science Quarterly.
 
 ### Proaktive mekanismer for konflikthåndtering
