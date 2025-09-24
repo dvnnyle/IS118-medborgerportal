@@ -23,28 +23,34 @@ Når man velger medlemmer til prosjektgruppen, er det viktig å ta hensyn til be
 For å sikre fremdrift og kvalitet i prosjektet, er det viktig å tenke strategisk om rekruttering og sammensetning tidlig i prosessen. Et godt sammensveiset team kan skape effektive arbeidsrutiner raskt og bruke mindre tid på konflikter i teamet. Dette resulterer i en mer smidig oppstart. Tidlig rekruttering hjelper også til med å få riktig kompetanse til rett tid, spesielt innen teknologi og sikkerhet. Videre styrker tidlig involvering av innbyggere, politikere og administrasjon prosjektets forankring og legitimitet, noe som bygger tillit i lokalsamfunnet. Videre gjør en tydelig fordeling av roller og kompetanse allerede fra starten arbeidsprosessen mer effektiv og unngår feil, misforståelser og ansvarsgap.Som et resultat bør prosjektteamet settes sammen med et sterkt fokus på faglig mangfold og sosial/demografisk likhet. For å sikre at prosjektet får en solid og vellykket start, vil et strukturert rekrutteringsprosess med klare kompetansestandarder, rollebeskrivelser og felles verdier være et viktig første skritt.
 
 
-### Design av "det første møtet - josehph?
+### Design av "det første møtet
 
 Oppstartsmøtet introduserer en fase som er avgjørende for prosjektets suksess. Dette møtet skal ikke bare gi praktisk informasjon, men også bidra til å skape en felles forståelse, bygge tillit og legge grunnlaget for et godt samarbeid. Når prosjektet involverer både kommunal administrasjon, politiske aktører, fagpersoner og brukerrepresentanter, er det spesielt viktig å etablere en møteplass der alle opplever å bli lyttet til og anerkjent fra starten. Oppstartsmøtet må derfor fungere både som et sosialt grunnlag for å bygge relasjoner og som en formell ramme for arbeidsfordeling.
 
 **En anbefalt agenda for første møte**
 
 **Introduksjon og kontekst**
+
 Prosjektleder presenterer rammene: tidsplan (15 måneder), budsjett (8 mill. NOK) og hovedmålet om å øke innbyggerengasjement og transparens med 20 % det første året etter lansering. Dette gir deltakerne en tydelig struktur å forholde seg til og skaper en felles forståelse av hvorfor prosjektet er viktig. En klar introduksjon er avgjørende for å redusere risikoen for at medlemmene legger vekt på ulike prioriteringer og for å skape en felles identitet i prosjektet.
 
 **Roller og ansvar**
+
 Det klargjøres hvilke roller som finnes i prosjektet, og hvordan de henger sammen. Her tydeliggjøres hvem som har ansvar for hva. For eksempel bidrar innbyggerrepresentantene med brukerinnsikt, UX-designeren med brukeropplevelse og kommunens IT-avdeling med teknisk drift. En slik avklaring reduserer risikoen for misforståelser og overlapp, og legger grunnlaget for en klar arbeidsdeling fra start.
 
 **Presentasjonsrunde**
+
 Hvert medlem introduserer seg selv, sin faglige kompetanse, personlige perspektiver og hva de ønsker å bidra med i prosjektet. For å styrke relasjonsbyggingen kan man også ta med noe mer personlig, som interesser eller erfaring med lokalt samfunnsarbeid. Slike presentasjoner gjør det lettere for deltakerne å se hvordan ulike perspektiver kan utfylle hverandre, og de bidrar til å bygge gjensidig tillit.
 
 **Arbeidsmetoder og kommunikasjon**
+
 Gruppen blir enige om dokumentasjon og verktøy (f.eks. Teams, Zoom eller Google Workspace) og felles rutiner for møter. I tillegg avklares møtestrukturer som ukentlige statusmøter, månedlige milepølsgjennomganger og beslutningsprosesser. Dette etablerer en struktur som sikrer større grad av forutsigbarhet i samarbeidet. Klare rutiner for koordinering og kommunikasjon er avgjørende for at et prosjekt med mange ulike aktører skal fungere effektivt.
 
 **Pseudo-arbeid for relasjonsbygging**
+
 Et viktig element i oppstartsmøter er pseudo-arbeid, aktiviteter som ikke direkte handler om prosjektets kjerneoppgaver, men som bygger samhold og styrker samarbeidet. Et eksempel kan være en kort workshop der teamet i fellesskap diskuterer hvordan innbyggerne best kan trekkes inn i portalen, eller en problemløsningsøvelse som må løses i fellesskap. Slike aktiviteter styrker tryggheten, gir tidlige samarbeidserfaringer og gjør det enklere å innlede dialog.
 
 **Forventningsavklaring og avslutning**
+
 Mot slutten av møtet får hvert medlem formulere hva de ser på som prosjektets viktigste mål eller suksesskriterium, samt hva de selv trenger fra de andre for å lykkes. Dette gir prosjektleder innsikt i individuelle forventninger og gjør det enklere å justere samarbeidet underveis. Prosjektleder oppsummerer deretter, tydeliggjør neste steg og sikrer at alle forlater møtet med en felles forståelse, retning og følelse av fellesskap.
 
 
@@ -53,7 +59,61 @@ Mot slutten av møtet får hvert medlem formulere hva de ser på som prosjektets
 
 ### Proaktive mekanismer for konflikthåndtering
 
+Konflikter i gruppe og eller team prosjekt er nesten umulig å unngå. Det er derfor viktig å være klar over hva som kan skape konflikter i gruppen, men mer hvordan som en gruppe eller team kan kjenne igjen en konflikt når den oppstår og håndtere konflikten. Konflikthåndtering innad i gruppen er nermest nødvendig, men kan og ha en positiv innvirkning til en bedre forståelse for hvordan gruppen opererer med prosjekter sammen.
+
+**Hva er en konflikt**
+
+En konflikt er en varig eller lengre periode med uenighet og kan utarte seg forskjellig. som oftest kan en konflikt beskrives kort som spenning mellom som oftest individuelle parter i gruppen eller teamet. Personene dette vil inngå vil føle det som en trussel mot dem, som den andre parten vil skade dem på et vis, ta fra dem noe eller hindre progresjonen deres i arbeidet de ønsker å oppnå.
+Siden vi alle har forskjellige bakgrunner gir det oss forskjellige forståelser av situasjoner, detter er ofte det som fører til konflikter. I dette tilfelle vil alle partene ha en felles forståelse av at prosjekter skal fullføres med en bestemt kvalitet og til en bestemt tid, men hver part vil ha hver sine måte å se problemstillingene, løse problemstillingene og hver sin måte å gjennomføre dette på.
+
+**Effekter av konflikter**
+
+Konflikter innad i team er som oftest negativt og hindrer produktivitet og tidsbruk på oppgaven som er fremstillt for gruppen. Det er dermed noen steder et lavt konflikt nivå kan ha en positiv innvirkning detter vil inngå ganske spesifikt i utviklings-prosjekter hvor nye ideer er fokuset.
+Konflikter vil derimot stort sett være negativt og dette gjelder kunn for utviklings-prosjekter og en lavere grad av konflikt.
+
+**Håndtering av Konflikter**
+
+Siden konflikter er nermest umulig å unngå er det viktig å se hvordan en kan håndtere konflikter med å finne løsning eller minimere negative effekter fra konflikten. fem grunnleggende strategier som kan brukes ved konflikthåndtering:
+- Problemløsning i konflikter finne årsaken og en løsning som fungerer for partene involvert i konflikten.
+- Ettergivenhet hvor en av partene gir opp og slutter å kjempe gjennom for sint synspunkt.
+- Dominans hvor en kan burke sin makt over situasjonen som f.eks en leder til å tivnge frem til en løsning.
+- Kompromiss hvor partene involvert gir og tar hvor begger partier involvert får litt men også mister litt så det blir akseptabelt fordelt mellom partene.
+- Unngåelse hvor man skyver vekk probleme og lar være å ta det opp.
+Problemløsning er den mest effektive metoden for å løse konflikter og beholde effektivitet.
+
 ### Håndtering av tidspress og "planleggingsfellen - Niklas
+
+
+Prosjekter på størrelsen som den Erling skal ta hånd om nå, er det mye som må tas til hensyn for å nå målene satt. Tidspress og "fellene" ett prosjekt er utsatt for er viktige problemer som prosjektleder må ta hånd om i løpet av start fasene i prosjektet. Her er det viktig og insette en struktur som forebygger at slike problemer ikke oppstår under prosjektet, men hva slags problemer er det snakk om?
+
+**Tidspress** 
+
+Tidspress vil oppstå under ett hvert prosjekt med en satt frist. Det kan oppstå via at man ikke avsetter tilstrekkelig med tid til de forskjellige oppgavene avdelingene må gjennomføre under prosjektet, feilkommunikasjon mellom avdelinger eller mellom prosjektleder og avdelinger, feil fordeling av oppgaver basert på fagkunnskap osv.
+
+**kommunikasjon**
+
+Dårlig eller lite kommunikasjon mellom både ledelse og avdeling og avdelinger seg imellom kan forårsake uforutsette forsinkninger i arbeid grunnet feil jobbing eller feil informasjon. Dette kan forårsake at oppgaver ledelsen trodde var under ikke blir startet og skylderen er dårlig informasjonsflyt.
+
+**fordeling av ressurser**
+
+Prosjekter av størrelsen som Erling har blitt prosjektleder for, har flere avdelinger og trenger planlegging. I tilfeller hvor avdelinger ikke får tilstrekkelig med ressurser til enhver oppgave kan produksjons feil, forsinkelser og misnøye mellom ledelse og individer opsptå.
+
+Prosjekter som dette har mange ting som prosjektleder må håndtere for å nå det ønskete produktet. Det kan føles som en umulig mengde ting og ta hånd om, men det er teknikker og metoder som kan hjelper prosjektleder med å forebygge at slike situasjon oppstår. Disse er:
+
+**Kommunikasjon** 
+
+Dette kommer kanskje som en selvfølge, men det er vitalt for ett hvert prosjekt at det sikres god kommunikasjon mellom alle involvert. Prosjektleder må ta tiden til å sette opp rutiner til møter og forårsake å dyrke en kultur hvor det er normen og dele all relevant informasjon angående oppgaver med alle som det omganger. Dette vil føre til at problemer som kunne utviklet seg til prosjekt stoppere kan bli oppdaget tidlig og håndtert. Dette vil også gi muligheten til enhver avdeling å kommunisere med andre avdelinger/ledelse og få dyrebar informasjon de ellers ikke vill hatt. Generelt sett vil dette gjøre slik at enhver oppgabe blir sett på av et bredere fagfelt og gi høyere sjans for suksess.
+
+**Buffer** 
+
+Legg in en buffertid i prosjektet. Dette gir avdelinger og prosjektleder tid til å håndete uforserbare hendelser under utvikling. Mengden buffer tid som skal avsettes til enhver oppgave må bestemmes gjennom et sammerbeid mellom prosjektleder og de innvolvert i oppgaven, og kan baseres på forutsigbare problemer dere tenker kan oppstå. 
+
+**Planlegging** 
+
+I planleggingen av prosjektet anbefaler vi at avdelingene tas inn i planleggingsfasen. Dette vil gi et bredere fagfelt og fagkunnskap til de forskjellige oppgavene som skal utføres og gi prosjektleder en god innsikt inn i hvor lang tid enhver oppgave realistisk vil ta. Det vil også gi avdelingene en sikkerhet via kunnskap om hva som er dem i møte.
+
+Prosjektleder må ta en beslutning basert på hvilke problemer han tenker sitt prosjekt er mest utsatt for og så iverksette løsninger basert på det. Hvis han tar i bruk teknikkene over, vil prosjektet ha en høyere sjans for suksess.
+
 
 ### Sikring av god kommunikasjon
 
