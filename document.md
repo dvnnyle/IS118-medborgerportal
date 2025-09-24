@@ -23,7 +23,7 @@ Når man velger medlemmer til prosjektgruppen, er det viktig å ta hensyn til be
 For å sikre fremdrift og kvalitet i prosjektet, er det viktig å tenke strategisk om rekruttering og sammensetning tidlig i prosessen. Et godt sammensveiset team kan skape effektive arbeidsrutiner raskt og bruke mindre tid på konflikter i teamet. Dette resulterer i en mer smidig oppstart. Tidlig rekruttering hjelper også til med å få riktig kompetanse til rett tid, spesielt innen teknologi og sikkerhet. Videre styrker tidlig involvering av innbyggere, politikere og administrasjon prosjektets forankring og legitimitet, noe som bygger tillit i lokalsamfunnet. Videre gjør en tydelig fordeling av roller og kompetanse allerede fra starten arbeidsprosessen mer effektiv og unngår feil, misforståelser og ansvarsgap.Som et resultat bør prosjektteamet settes sammen med et sterkt fokus på faglig mangfold og sosial/demografisk likhet. For å sikre at prosjektet får en solid og vellykket start, vil et strukturert rekrutteringsprosess med klare kompetansestandarder, rollebeskrivelser og felles verdier være et viktig første skritt.
 
 
-### Design av "det første møtet - josehph?
+### Design av "det første møtet
 
 Oppstartsmøtet introduserer en fase som er avgjørende for prosjektets suksess. Dette møtet skal ikke bare gi praktisk informasjon, men også bidra til å skape en felles forståelse, bygge tillit og legge grunnlaget for et godt samarbeid. Når prosjektet involverer både kommunal administrasjon, politiske aktører, fagpersoner og brukerrepresentanter, er det spesielt viktig å etablere en møteplass der alle opplever å bli lyttet til og anerkjent fra starten. Oppstartsmøtet må derfor fungere både som et sosialt grunnlag for å bygge relasjoner og som en formell ramme for arbeidsfordeling.
 
@@ -53,7 +53,31 @@ Mot slutten av møtet får hvert medlem formulere hva de ser på som prosjektets
 
 ### Proaktive mekanismer for konflikthåndtering
 
-### Håndtering av tidspress og "planleggingsfellen
+
+Konflikter i gruppe og eller team prosjekt er nesten umulig å unngå. Det er derfor viktig å være klar over hva som kan skape konflikter i gruppen, men mer hvordan som en gruppe eller team kan kjenne igjen en konflikt når den oppstår og håndtere konflikten. Konflikthåndtering innad i gruppen er nermest nødvendig, men kan og ha en positiv innvirkning til en bedre forståelse for hvordan gruppen opererer med prosjekter sammen.
+
+**Hva er en konflikt**
+
+En konflikt er en varig eller lengre periode med uenighet og kan utarte seg forskjellig. som oftest kan en konflikt beskrives kort som spenning mellom som oftest individuelle parter i gruppen eller teamet. Personene dette vil inngå vil føle det som en trussel mot dem, som den andre parten vil skade dem på et vis, ta fra dem noe eller hindre progresjonen deres i arbeidet de ønsker å oppnå.
+Siden vi alle har forskjellige bakgrunner gir det oss forskjellige forståelser av situasjoner, detter er ofte det som fører til konflikter. I dette tilfelle vil alle partene ha en felles forståelse av at prosjekter skal fullføres med en bestemt kvalitet og til en bestemt tid, men hver part vil ha hver sine måte å se problemstillingene, løse problemstillingene og hver sin måte å gjennomføre dette på.
+
+**Effekter av konflikter**
+
+Konflikter innad i team er som oftest negativt og hindrer produktivitet og tidsbruk på oppgaven som er fremstillt for gruppen. Det er dermed noen steder et lavt konflikt nivå kan ha en positiv innvirkning detter vil inngå ganske spesifikt i utviklings-prosjekter hvor nye ideer er fokuset.
+Konflikter vil derimot stort sett være negativt og dette gjelder kunn for utviklings-prosjekter og en lavere grad av konflikt.
+
+**Håndtering av Konflikter**
+
+Siden konflikter er nermest umulig å unngå er det viktig å se hvordan en kan håndtere konflikter med å finne løsning eller minimere negative effekter fra konflikten. fem grunnleggende strategier som kan brukes ved konflikthåndtering:
+- Problemløsning i konflikter finne årsaken og en løsning som fungerer for partene involvert i konflikten.
+- Ettergivenhet hvor en av partene gir opp og slutter å kjempe gjennom for sint synspunkt.
+- Dominans hvor en kan burke sin makt over situasjonen som f.eks en leder til å tivnge frem til en løsning.
+- Kompromiss hvor partene involvert gir og tar hvor begger partier involvert får litt men også mister litt så det blir akseptabelt fordelt mellom partene.
+- Unngåelse hvor man skyver vekk probleme og lar være å ta det opp.
+Problemløsning er den mest effektive metoden for å løse konflikter og beholde effektivitet.
+
+### Håndtering av tidspress og "planleggingsfellen - Niklas
+
 
 Prosjekter på størrelsen som den Erling skal ta hånd om nå, er det mye som må tas til hensyn for å nå målene satt. Tidspress og "fellene" ett prosjekt er utsatt for er viktige problemer som prosjektleder må ta hånd om i løpet av start fasene i prosjektet. Her er det viktig og insette en struktur som forebygger at slike problemer ikke oppstår under prosjektet, men hva slags problemer er det snakk om?
 
@@ -73,7 +97,7 @@ Prosjekter som dette har mange ting som prosjektleder må håndtere for å nå d
 
 Prosjektleder må ta en beslutning basert på hvilke problemer han tenker sitt prosjekt er mest utsatt for og så iverksette løsninger basert på det. Hvis han tar i bruk teknikkene over, vil prosjektet ha en høyere sjans for suksess.
 
-  
+
 ### Sikring av god kommunikasjon
 
 I et prosjektarbeid, som i alle aspekter i livet, er god kommunikasjon viktig for å forstå målene i arbeidet og hva som forventes av hver enkelt som er en del av prosjektet.
