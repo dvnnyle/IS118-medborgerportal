@@ -53,6 +53,7 @@ Mot slutten av møtet får hvert medlem formulere hva de ser på som prosjektets
 
 ### Proaktive mekanismer for konflikthåndtering
 
+
 Konflikter i gruppe og eller team prosjekt er nesten umulig å unngå. Det er derfor viktig å være klar over hva som kan skape konflikter i gruppen, men mer hvordan som en gruppe eller team kan kjenne igjen en konflikt når den oppstår og håndtere konflikten. Konflikthåndtering innad i gruppen er nermest nødvendig, men kan og ha en positiv innvirkning til en bedre forståelse for hvordan gruppen opererer med prosjekter sammen.
 
 **Hva er en konflikt**
@@ -76,6 +77,26 @@ Siden konflikter er nermest umulig å unngå er det viktig å se hvordan en kan 
 Problemløsning er den mest effektive metoden for å løse konflikter og beholde effektivitet.
 
 ### Håndtering av tidspress og "planleggingsfellen - Niklas
+
+
+Prosjekter på størrelsen som den Erling skal ta hånd om nå, er det mye som må tas til hensyn for å nå målene satt. Tidspress og "fellene" ett prosjekt er utsatt for er viktige problemer som prosjektleder må ta hånd om i løpet av start fasene i prosjektet. Her er det viktig og insette en struktur som forebygger at slike problemer ikke oppstår under prosjektet, men hva slags problemer er det snakk om?
+
+**Tidspress** Tidspress vil oppstå under ett hvert prosjekt med en satt frist. Det kan oppstå via at man ikke avsetter tilstrekkelig med tid til de forskjellige oppgavene avdelingene må gjennomføre under prosjektet, feilkommunikasjon mellom avdelinger eller mellom prosjektleder og avdelinger, feil fordeling av oppgaver basert på fagkunnskap osv.
+
+**kommunikasjon** Dårlig eller lite kommunikasjon mellom både ledelse og avdeling og avdelinger seg imellom kan forårsake uforutsette forsinkninger i arbeid grunnet feil jobbing eller feil informasjon. Dette kan forårsake at oppgaver ledelsen trodde var under ikke blir startet og skylderen er dårlig informasjonsflyt.
+
+**fordeling av ressurser** Prosjekter av størrelsen som Erling har blitt prosjektleder for, har flere avdelinger og trenger planlegging. I tilfeller hvor avdelinger ikke får tilstrekkelig med ressurser til enhver oppgave kan produksjons feil, forsinkelser og misnøye mellom ledelse og individer opsptå.
+
+Prosjekter som dette har mange ting som prosjektleder må håndtere for å nå det ønskete produktet. Det kan føles som en umulig mengde ting og ta hånd om, men det er teknikker og metoder som kan hjelper prosjektleder med å forebygge at slike situasjon oppstår. Disse er:
+
+**Kommunikasjon** Dette kommer kanskje som en selvfølge, men det er vitalt for ett hvert prosjekt at det sikres god kommunikasjon mellom alle involvert. Prosjektleder må ta tiden til å sette opp rutiner til møter og forårsake å dyrke en kultur hvor det er normen og dele all relevant informasjon angående oppgaver med alle som det omganger. Dette vil føre til at problemer som kunne utviklet seg til prosjekt stoppere kan bli oppdaget tidlig og håndtert. Dette vil også gi muligheten til enhver avdeling å kommunisere med andre avdelinger/ledelse og få dyrebar informasjon de ellers ikke vill hatt. Generelt sett vil dette gjøre slik at enhver oppgabe blir sett på av et bredere fagfelt og gi høyere sjans for suksess.
+
+**Buffer** Legg in en buffertid i prosjektet. Dette gir avdelinger og prosjektleder tid til å håndete uforserbare hendelser under utvikling. Mengden buffer tid som skal avsettes til enhver oppgave må bestemmes gjennom et sammerbeid mellom prosjektleder og de innvolvert i oppgaven, og kan baseres på forutsigbare problemer dere tenker kan oppstå. 
+
+**Planlegging** I planleggingen av prosjektet anbefaler vi at avdelingene tas inn i planleggingsfasen. Dette vil gi et bredere fagfelt og fagkunnskap til de forskjellige oppgavene som skal utføres og gi prosjektleder en god innsikt inn i hvor lang tid enhver oppgave realistisk vil ta. Det vil også gi avdelingene en sikkerhet via kunnskap om hva som er dem i møte.
+
+Prosjektleder må ta en beslutning basert på hvilke problemer han tenker sitt prosjekt er mest utsatt for og så iverksette løsninger basert på det. Hvis han tar i bruk teknikkene over, vil prosjektet ha en høyere sjans for suksess.
+
 
 ### Sikring av god kommunikasjon
 
