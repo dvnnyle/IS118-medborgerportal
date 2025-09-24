@@ -53,6 +53,28 @@ Mot slutten av møtet får hvert medlem formulere hva de ser på som prosjektets
 
 ### Proaktive mekanismer for konflikthåndtering
 
+Konflikter i gruppe og eller team prosjekt er nesten umulig å unngå. Det er derfor viktig å være klar over hva som kan skape konflikter i gruppen, men mer hvordan som en gruppe eller team kan kjenne igjen en konflikt når den oppstår og håndtere konflikten. Konflikthåndtering innad i gruppen er nermest nødvendig, men kan og ha en positiv innvirkning til en bedre forståelse for hvordan gruppen opererer med prosjekter sammen.
+
+**Hva er en konflikt**
+
+En konflikt er en varig eller lengre periode med uenighet og kan utarte seg forskjellig. som oftest kan en konflikt beskrives kort som spenning mellom som oftest individuelle parter i gruppen eller teamet. Personene dette vil inngå vil føle det som en trussel mot dem, som den andre parten vil skade dem på et vis, ta fra dem noe eller hindre progresjonen deres i arbeidet de ønsker å oppnå.
+Siden vi alle har forskjellige bakgrunner gir det oss forskjellige forståelser av situasjoner, detter er ofte det som fører til konflikter. I dette tilfelle vil alle partene ha en felles forståelse av at prosjekter skal fullføres med en bestemt kvalitet og til en bestemt tid, men hver part vil ha hver sine måte å se problemstillingene, løse problemstillingene og hver sin måte å gjennomføre dette på.
+
+**Effekter av konflikter**
+
+Konflikter innad i team er som oftest negativt og hindrer produktivitet og tidsbruk på oppgaven som er fremstillt for gruppen. Det er dermed noen steder et lavt konflikt nivå kan ha en positiv innvirkning detter vil inngå ganske spesifikt i utviklings-prosjekter hvor nye ideer er fokuset.
+Konflikter vil derimot stort sett være negativt og dette gjelder kunn for utviklings-prosjekter og en lavere grad av konflikt.
+
+**Håndtering av Konflikter**
+
+Siden konflikter er nermest umulig å unngå er det viktig å se hvordan en kan håndtere konflikter med å finne løsning eller minimere negative effekter fra konflikten. fem grunnleggende strategier som kan brukes ved konflikthåndtering:
+- Problemløsning i konflikter finne årsaken og en løsning som fungerer for partene involvert i konflikten.
+- Ettergivenhet hvor en av partene gir opp og slutter å kjempe gjennom for sint synspunkt.
+- Dominans hvor en kan burke sin makt over situasjonen som f.eks en leder til å tivnge frem til en løsning.
+- Kompromiss hvor partene involvert gir og tar hvor begger partier involvert får litt men også mister litt så det blir akseptabelt fordelt mellom partene.
+- Unngåelse hvor man skyver vekk probleme og lar være å ta det opp.
+Problemløsning er den mest effektive metoden for å løse konflikter og beholde effektivitet.
+
 ### Håndtering av tidspress og "planleggingsfellen - Niklas
 
 ### Sikring av god kommunikasjon
