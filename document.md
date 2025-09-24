@@ -54,17 +54,18 @@ Mot slutten av møtet får hvert medlem formulere hva de ser på som prosjektets
 ### Proaktive mekanismer for konflikthåndtering
 
 ### Håndtering av tidspress og "planleggingsfellen
-I ett hvert prosjekt er håndtering av tidsrammene som oppgavene må bli løst innen en vital del av utføringen og planleggingen av oppgaven. Prosjektleder og individene innen hver avdeling må planlegge og forutse tidsbruk til enhver oppgave de tar. For å sikre en god fordeling av tidsbruk og sikre at målene gruppen har satt seg blir nådd er det viktig og sette seg klare mål og ta i bruk konkrete metoder for å sikre at tid ikke blir et problem.
-**Tidspress** - Tidspress er noe som påvirker alt av arbeid som må bli løst innen en satt periode, uten god planlegging og estimering av oppgaver kan tidsrammene for oppgaven forårskape at man enten ikke klarer å fullføre eller påvirke kvaliteten av arbeidet utført. For å overkomme dette er det viktig og ta i bruk flere teknikker og metoder for å få til det ønskete resultatet. 
-**Anbefaling** for å unngå at tidspress blir et problem, anbefaler vi at prosjekt leder og teamet holder tett kontakt og setter konkrete tidsrammer for hver del av prosjektet. Dette vil føre til at laget vet hva som er forventet til hvilken tid og kan fokusere på å nå kriteriene for hver deadline. I tilleg anbefales det å legge inn en buffertid for uforsigbare hendelser som eventuelt kan oppstå under arbeid. Dette gir laget og prosjektleder puste rom ved uforsigbare hendelser og gjør det lettere å jobbe sikkert. Videre er det relevant for prosjektleder og inkludere laget i estimeringsprossesen av tiden brukt for prosjektet. Dette vil gi breder fagkompetanse og som oftest kjenner laget selv hvor lang tid som er nædvendig for hver oppgave. 
-**Planleggingsfellen** Prosjekter av denne skalaen med flere avdelinger og bred fag kunnskap har flere utfordringer som prosjektlederen må ta hånd om for å sikre at prosjektet går som planlagt. Ett av disse er å forutse forskjellige "feller" som prosjektet kan falle inn i, Disse inkluderer:
-- feil estemering av tid til enhver oppgave.
-- feil kommunikasjon mellom avdelinger eller lite kommunikasjon.
-- Dårlig bruk av fag kompetanse, avdelinger og ..
-- prokrastinering
-- dårlig informasjons flyt mellom ledelser og avdelinger.
+Prosjekter på størrelsen som den Erling skal ta hånd om nå, er det mye som må tas til hensyn for å nå målene satt. Tidspress og "fellene" ett prosjekt er utsatt for er viktige problemer som prosjektleder må ta hånd om i løpet av start fasene i prosjektet. Her er det viktig og insette en struktur som forebygger at slike problemer ikke oppstår under prosjektet, men hva slags problemer er det snakk om?
+**Tidspress** Tidspress vil oppstå under ett hvert prosjekt med en satt frist. Det kan oppstå via at man ikke avsetter tilstrekkelig med tid til de forskjellige oppgavene avdelingene må gjennomføre under prosjektet, feilkommunikasjon mellom avdelinger eller mellom prosjektleder og avdelinger, feil fordeling av oppgaver basert på fagkunnskap osv.
+**kommunikasjon** Dårlig eller lite kommunikasjon mellom både ledelse og avdeling og avdelinger seg imellom kan forårsake uforutsette forsinkninger i arbeid grunnet feil jobbing eller feil informasjon. Dette kan forårsake at oppgaver ledelsen trodde var under ikke blir startet og skylderen er dårlig informasjonsflyt.
+**fordeling av ressurser** Prosjekter av størrelsen som Erling har blitt prosjektleder for, har flere avdelinger og trenger planlegging. I tilfeller hvor avdelinger ikke får tilstrekkelig med ressurser til enhver oppgave kan produksjons feil, forsinkelser og misnøye mellom ledelse og individer opsptå.
 
-  **TIDLIG DRAFT SKAL FIKSE OG OM SKRIVE, MÅTTE BARE FÅ NED FOR Å BEGYNNE PROSESSEN**
+Prosjekter som dette har mange ting som prosjektleder må håndtere for å nå det ønskete produktet. Det kan føles som en umulig mengde ting og ta hånd om, men det er teknikker og metoder som kan hjelper prosjektleder med å forebygge at slike situasjon oppstår. Disse er:
+**Kommunikasjon** Dette kommer kanskje som en selvfølge, men det er vitalt for ett hvert prosjekt at det sikres god kommunikasjon mellom alle involvert. Prosjektleder må ta tiden til å sette opp rutiner til møter og forårsake å dyrke en kultur hvor det er normen og dele all relevant informasjon angående oppgaver med alle som det omganger. Dette vil føre til at problemer som kunne utviklet seg til prosjekt stoppere kan bli oppdaget tidlig og håndtert. Dette vil også gi muligheten til enhver avdeling å kommunisere med andre avdelinger/ledelse og få dyrebar informasjon de ellers ikke vill hatt. Generelt sett vil dette gjøre slik at enhver oppgabe blir sett på av et bredere fagfelt og gi høyere sjans for suksess.
+**Buffer** Legg in en buffertid i prosjektet. Dette gir avdelinger og prosjektleder tid til å håndete uforserbare hendelser under utvikling. Mengden buffer tid som skal avsettes til enhver oppgave må bestemmes gjennom et sammerbeid mellom prosjektleder og de innvolvert i oppgaven, og kan baseres på forutsigbare problemer dere tenker kan oppstå. 
+**Planlegging** I planleggingen av prosjektet anbefaler vi at avdelingene tas inn i planleggingsfasen. Dette vil gi et bredere fagfelt og fagkunnskap til de forskjellige oppgavene som skal utføres og gi prosjektleder en god innsikt inn i hvor lang tid enhver oppgave realistisk vil ta. Det vil også gi avdelingene en sikkerhet via kunnskap om hva som er dem i møte.
+
+Prosjektleder må ta en beslutning basert på hvilke problemer han tenker sitt prosjekt er mest utsatt for og så iverksette løsninger basert på det. Hvis han tar i bruk teknikkene over, vil prosjektet ha en høyere sjans for suksess.
+
   
 ### Sikring av god kommunikasjon
 
