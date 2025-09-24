@@ -3,7 +3,7 @@
 ### Introduksjon og Bakgrunn
 Denne prosjektlederpakken, skal fokusere på den første fasen av utviklingen av kommunens digitale medborgerportal. Målet er å forbedre formingsfasen for å gjøre prosjektgruppen til et godt samarbeidende team som kan håndtere problemer effektivt fra starten. Pakken legger vekt på sosialt mangfold og faglig mangfold når det gjelder ansettelse, oppstartsmøter, relasjonskontrakter, konflikthåndtering, tidspress og kommunikasjon. Prosjektlederen kan øke sannsynligheten for at prosjektet når sine mål innen tidsramme, budsjett og kvalitet ved å følge veiledningen.
 
-### Strategi for rekruttering og sammensetning  - Danny
+### Strategi for rekruttering og sammensetning  
 For å oppnå utvikling av medborgerportalen er det avgjørende å ha en effektiv prosjektgruppe. Som et resultat bør rekrutteringsplanen konsentrere seg om å balansere mangfold og komplementere ferdigheter med en viss grad av sosial og demografisk likhet. Dette bidrar til å sikre både et mangfoldig utvalg av synspunkter og en tidlig etablering av samarbeid og tillit mellom medlemmer av gruppen.
 
 **Behovet for mangfold**
@@ -71,7 +71,7 @@ Siden vi alle har forskjellige bakgrunner gir det oss forskjellige forståelser 
 Konflikter innad i team er som oftest negativt og hindrer produktivitet og tidsbruk på oppgaven som er fremstillt for gruppen. Det er dermed noen steder et lavt konflikt nivå kan ha en positiv innvirkning detter vil inngå ganske spesifikt i utviklings-prosjekter hvor nye ideer er fokuset.
 Konflikter vil derimot stort sett være negativt og dette gjelder kunn for utviklings-prosjekter og en lavere grad av konflikt.
 
-**Håndtering av Konflikter**
+**Håndtering av konflikter**
 
 Siden konflikter er nermest umulig å unngå er det viktig å se hvordan en kan håndtere konflikter med å finne løsning eller minimere negative effekter fra konflikten. fem grunnleggende strategier som kan brukes ved konflikthåndtering:
 - Problemløsning i konflikter finne årsaken og en løsning som fungerer for partene involvert i konflikten.
@@ -81,8 +81,7 @@ Siden konflikter er nermest umulig å unngå er det viktig å se hvordan en kan 
 - Unngåelse hvor man skyver vekk probleme og lar være å ta det opp.
 Problemløsning er den mest effektive metoden for å løse konflikter og beholde effektivitet.
 
-### Håndtering av tidspress og "planleggingsfellen - Niklas
-
+### Håndtering av tidspress -og planleggingsfellen 
 
 Prosjekter på størrelsen som den Erling skal ta hånd om nå, er det mye som må tas til hensyn for å nå målene satt. Tidspress og "fellene" ett prosjekt er utsatt for er viktige problemer som prosjektleder må ta hånd om i løpet av start fasene i prosjektet. Her er det viktig og insette en struktur som forebygger at slike problemer ikke oppstår under prosjektet, men hva slags problemer er det snakk om?
 
@@ -90,19 +89,19 @@ Prosjekter på størrelsen som den Erling skal ta hånd om nå, er det mye som m
 
 Tidspress vil oppstå under ett hvert prosjekt med en satt frist. Det kan oppstå via at man ikke avsetter tilstrekkelig med tid til de forskjellige oppgavene avdelingene må gjennomføre under prosjektet, feilkommunikasjon mellom avdelinger eller mellom prosjektleder og avdelinger, feil fordeling av oppgaver basert på fagkunnskap osv.
 
-**kommunikasjon**
+**God og dårlig kommunikasjon**
+
+Dette kommer kanskje som en selvfølge, men det er vitalt for ett hvert prosjekt at det sikres god kommunikasjon mellom alle involvert. Prosjektleder må ta tiden til å sette opp rutiner til møter og forårsake å dyrke en kultur hvor det er normen og dele all relevant informasjon angående oppgaver med alle som det omganger. Dette vil føre til at problemer som kunne utviklet seg til prosjekt stoppere kan bli oppdaget tidlig og håndtert. Dette vil også gi muligheten til enhver avdeling å kommunisere med andre avdelinger/ledelse og få dyrebar informasjon de ellers ikke vill hatt. Generelt sett vil dette gjøre slik at enhver oppgabe blir sett på av et bredere fagfelt og gi høyere sjans for suksess.
 
 Dårlig eller lite kommunikasjon mellom både ledelse og avdeling og avdelinger seg imellom kan forårsake uforutsette forsinkninger i arbeid grunnet feil jobbing eller feil informasjon. Dette kan forårsake at oppgaver ledelsen trodde var under ikke blir startet og skylderen er dårlig informasjonsflyt.
 
-**fordeling av ressurser**
+**Fordeling av ressurser**
 
 Prosjekter av størrelsen som Erling har blitt prosjektleder for, har flere avdelinger og trenger planlegging. I tilfeller hvor avdelinger ikke får tilstrekkelig med ressurser til enhver oppgave kan produksjons feil, forsinkelser og misnøye mellom ledelse og individer opsptå.
 
 Prosjekter som dette har mange ting som prosjektleder må håndtere for å nå det ønskete produktet. Det kan føles som en umulig mengde ting og ta hånd om, men det er teknikker og metoder som kan hjelper prosjektleder med å forebygge at slike situasjon oppstår. Disse er:
 
-**Kommunikasjon** 
 
-Dette kommer kanskje som en selvfølge, men det er vitalt for ett hvert prosjekt at det sikres god kommunikasjon mellom alle involvert. Prosjektleder må ta tiden til å sette opp rutiner til møter og forårsake å dyrke en kultur hvor det er normen og dele all relevant informasjon angående oppgaver med alle som det omganger. Dette vil føre til at problemer som kunne utviklet seg til prosjekt stoppere kan bli oppdaget tidlig og håndtert. Dette vil også gi muligheten til enhver avdeling å kommunisere med andre avdelinger/ledelse og få dyrebar informasjon de ellers ikke vill hatt. Generelt sett vil dette gjøre slik at enhver oppgabe blir sett på av et bredere fagfelt og gi høyere sjans for suksess.
 
 **Buffer** 
 
