@@ -30,21 +30,27 @@ Oppstartsmøtet introduserer en fase som er avgjørende for prosjektets suksess.
 **En anbefalt agenda for første møte**
 
 **Introduksjon og kontekst**
+
 Prosjektleder presenterer rammene: tidsplan (15 måneder), budsjett (8 mill. NOK) og hovedmålet om å øke innbyggerengasjement og transparens med 20 % det første året etter lansering. Dette gir deltakerne en tydelig struktur å forholde seg til og skaper en felles forståelse av hvorfor prosjektet er viktig. En klar introduksjon er avgjørende for å redusere risikoen for at medlemmene legger vekt på ulike prioriteringer og for å skape en felles identitet i prosjektet.
 
 **Roller og ansvar**
+
 Det klargjøres hvilke roller som finnes i prosjektet, og hvordan de henger sammen. Her tydeliggjøres hvem som har ansvar for hva. For eksempel bidrar innbyggerrepresentantene med brukerinnsikt, UX-designeren med brukeropplevelse og kommunens IT-avdeling med teknisk drift. En slik avklaring reduserer risikoen for misforståelser og overlapp, og legger grunnlaget for en klar arbeidsdeling fra start.
 
 **Presentasjonsrunde**
+
 Hvert medlem introduserer seg selv, sin faglige kompetanse, personlige perspektiver og hva de ønsker å bidra med i prosjektet. For å styrke relasjonsbyggingen kan man også ta med noe mer personlig, som interesser eller erfaring med lokalt samfunnsarbeid. Slike presentasjoner gjør det lettere for deltakerne å se hvordan ulike perspektiver kan utfylle hverandre, og de bidrar til å bygge gjensidig tillit.
 
 **Arbeidsmetoder og kommunikasjon**
+
 Gruppen blir enige om dokumentasjon og verktøy (f.eks. Teams, Zoom eller Google Workspace) og felles rutiner for møter. I tillegg avklares møtestrukturer som ukentlige statusmøter, månedlige milepølsgjennomganger og beslutningsprosesser. Dette etablerer en struktur som sikrer større grad av forutsigbarhet i samarbeidet. Klare rutiner for koordinering og kommunikasjon er avgjørende for at et prosjekt med mange ulike aktører skal fungere effektivt.
 
 **Pseudo-arbeid for relasjonsbygging**
+
 Et viktig element i oppstartsmøter er pseudo-arbeid, aktiviteter som ikke direkte handler om prosjektets kjerneoppgaver, men som bygger samhold og styrker samarbeidet. Et eksempel kan være en kort workshop der teamet i fellesskap diskuterer hvordan innbyggerne best kan trekkes inn i portalen, eller en problemløsningsøvelse som må løses i fellesskap. Slike aktiviteter styrker tryggheten, gir tidlige samarbeidserfaringer og gjør det enklere å innlede dialog.
 
 **Forventningsavklaring og avslutning**
+
 Mot slutten av møtet får hvert medlem formulere hva de ser på som prosjektets viktigste mål eller suksesskriterium, samt hva de selv trenger fra de andre for å lykkes. Dette gir prosjektleder innsikt i individuelle forventninger og gjør det enklere å justere samarbeidet underveis. Prosjektleder oppsummerer deretter, tydeliggjør neste steg og sikrer at alle forlater møtet med en felles forståelse, retning og følelse av fellesskap.
 
 
@@ -52,7 +58,6 @@ Mot slutten av møtet får hvert medlem formulere hva de ser på som prosjektets
 ### Rammer for relasjonelle kontrakter
 
 ### Proaktive mekanismer for konflikthåndtering
-
 
 Konflikter i gruppe og eller team prosjekt er nesten umulig å unngå. Det er derfor viktig å være klar over hva som kan skape konflikter i gruppen, men mer hvordan som en gruppe eller team kan kjenne igjen en konflikt når den oppstår og håndtere konflikten. Konflikthåndtering innad i gruppen er nermest nødvendig, men kan og ha en positiv innvirkning til en bedre forståelse for hvordan gruppen opererer med prosjekter sammen.
 
