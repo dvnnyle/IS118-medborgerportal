@@ -7,7 +7,7 @@
 
 # Gruppe 14
 
-**Members:**
+**Medlemmer:**
 
 - Danny Nguyen Le
 - Jonas Likværn(Likiftw)
