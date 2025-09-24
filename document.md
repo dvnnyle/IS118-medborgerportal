@@ -56,6 +56,39 @@ Mot slutten av møtet får hvert medlem formulere hva de ser på som prosjektets
 
 
 ### Rammer for relasjonelle kontrakter
+Når Erling skal lede et prosjekt for å lage en ny digital medborgerportal, handler suksess ikke bare om å holde tid, budsjett
+og kvalitet. Like viktig er hvordan samarbeidet i teamet bygges opp. Relasjonelle kontrakter betyr å lage rammer for hvordan folk
+skal jobbe sammen, skape tillit og få et felles eierskap til prosjektet.
+
+Et godt første steg er å snakke om hva slags samarbeid teamet ønsker. I tillegg til den formelle prosjektplanen har alle ofte 
+uformelle forventninger til hverandre, en såkalt psykologisk kontrakt. Hvis folk opplever rettferdighet og tillit i samarbeidet,
+øker motivasjonen og innsatsen (Rousseau, 1995). Erling kan derfor starte prosjektet med en workshop der teamet sammen blir enige om
+verdier og spilleregler, for eksempel åpenhet, respekt og tydelig kommunikasjon. Dette kan skrives ned i et felles mandat som brukes
+aktivt videre.
+
+Det er også viktig å ha klare roller. Når et team består av ulike fagfolk og interesser, kan det lett oppstå uenighet om hvem som
+bestemmer hva. Psykologisk forskning viser at tydelige roller reduserer konflikter og gjør at folk opplever mer mestring
+(Katz & Kahn, 1978). Et nyttig tiltak er å lage et "ansvars og beslutningskart" hvor det står hvem som har ansvar for hvilke
+oppgaver, og hvem som tar beslutninger. Her bør det også avtales hvordan Erling som prosjektleder skal samarbeide med prosjekteier,
+altså bystyret. For eksempel kan de ha faste møter ved viktige milepæler, og en klar avtale om hvilke saker prosjektet kan avgjøre
+selv, og hvilke som må opp til politisk behandling.
+
+For å unngå at teamet blir delt i grupper eller får en "oss mot dem" følelse, bør Erling skape psykologisk trygghet. Dette betyr at
+alle føler de kan si sin mening, stille spørsmål og innrømme feil uten å risikere å bli kritisert. Forskning viser at team med høy
+grad av psykologisk trygghet jobber bedre sammen, særlig når oppgavene er nye og kompliserte (Edmondson, 1999). I praksis kan dette
+bety å ha en enkel regel om at alle stemmer skal høres i møter, og at lederen selv viser åpenhet, for eksempel ved å innrømme
+usikkerhet eller feil.
+
+Til slutt bør kontrakten mellom prosjektleder og prosjekteier ikke bare handle om styring, men også om samarbeid. Det kan avtales
+hvordan de skal kommunisere, hvor ofte, og hvordan uenigheter skal løses. Det kan også være lurt å avtale hvordan man skal evaluere
+både resultater og samarbeid underveis.
+
+Ved å kombinere tydelige strukturer med fokus på tillit og trygghet, legger Erling et godt grunnlag i startfasen. Det øker sjansen
+for at portalen blir ferdig i tide og innenfor budsjett, og at den faktisk skaper mer engasjement hos innbyggerne.
+
+*Rousseau, D. M. (1995). Psychological Contracts in Organizations: Understanding Written and Unwritten Agreements.
+*Katz, D., & Kahn, R. L. (1978). The Social Psychology of Organizations.
+*Edmondson, A. (1999). Psychological safety and learning behavior in work teams. Administrative Science Quarterly.
 
 ### Proaktive mekanismer for konflikthåndtering
 
