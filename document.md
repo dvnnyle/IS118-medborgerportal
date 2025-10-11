@@ -23,28 +23,28 @@ For å sikre fremdrift og kvalitet i prosjektet, er det viktig å tenke strategi
 ***
 ### Design av det første møtet
 
-Oppstartsmøtet introduserer en fase som er avgjørende for prosjektets suksess. Dette møtet skal ikke bare gi praktisk informasjon, men også bidra til å skape en felles forståelse, bygge tillit og legge grunnlaget for et godt samarbeid. Når prosjektet involverer både kommunal administrasjon, politiske aktører, fagpersoner og brukerrepresentanter, er det spesielt viktig å etablere en møteplass der alle opplever å bli lyttet til og anerkjent fra starten. Oppstartsmøtet må derfor fungere både som et sosialt grunnlag for å bygge relasjoner og som en formell ramme for arbeidsfordeling.
+Oppstartsmøtet introduserer en fase som er avgjørende for prosjektets suksess. Dette møtet skal ikke bare gi praktisk informasjon, men også bidra til å skape en felles forståelse, bygge tillit og legge grunnlaget for et godt samarbeid. Når prosjektet involverer både kommunal administrasjon, politiske aktører, fagpersoner og brukerrepresentanter, er det spesielt viktig å etablere en møteplass der alle opplever å bli lyttet til og anerkjent fra starten. Oppstartsmøtet må derfor fungere både som et sosialt grunnlag for å bygge relasjoner og som en formell ramme for arbeidsfordeling (Jacobsen 2016).
 
 **En anbefalt agenda for første møte:**
 
 **Introduksjon og kontekst** <br>
-Prosjektleder presenterer rammene: tidsplan (15 måneder), budsjett (8 mill. NOK) og hovedmålet om å øke innbyggerengasjement og transparens med 20 % det første året etter lansering. Dette gir deltakerne en tydelig struktur å forholde seg til og skaper en felles forståelse av hvorfor prosjektet er viktig. En klar introduksjon er avgjørende for å redusere risikoen for at medlemmene legger vekt på ulike prioriteringer og for å skape en felles identitet i prosjektet.
+Prosjektleder presenterer rammene: tidsplan (15 måneder), budsjett (8 mill. NOK) og hovedmålet om å øke innbyggerengasjement og transparens med 20 % det første året etter lansering. Dette gir deltakerne en tydelig struktur å forholde seg til og skaper en felles forståelse av hvorfor prosjektet er viktig. En klar introduksjon er avgjørende for å redusere risikoen for at medlemmene legger vekt på ulike prioriteringer og for å skape en felles identitet i prosjektet (Andersen & Schwencke, 2014).
 
 **Roller og ansvar** <br>
-Det klargjøres hvilke roller som finnes i prosjektet, og hvordan de henger sammen. Her tydeliggjøres hvem som har ansvar for hva. For eksempel bidrar innbyggerrepresentantene med brukerinnsikt, UX-designeren med brukeropplevelse og kommunens IT-avdeling med teknisk drift. En slik avklaring reduserer risikoen for misforståelser og overlapp, og legger grunnlaget for en klar arbeidsdeling fra start.
+Det klargjøres hvilke roller som finnes i prosjektet, og hvordan de henger sammen. Her tydeliggjøres hvem som har ansvar for hva. For eksempel bidrar innbyggerrepresentantene med brukerinnsikt, UX-designeren med brukeropplevelse og kommunens IT-avdeling med teknisk drift. En slik avklaring reduserer risikoen for misforståelser og overlapp, og legger grunnlaget for en klar arbeidsdeling fra start. Tydelig rolleavklaring er en viktig del av prosjektorganisering of reduserer risiko for konflikter (Jacobsen, 2016).
 
 **Presentasjonsrunde**<br>
-Hvert medlem introduserer seg selv, sin faglige kompetanse, personlige perspektiver og hva de ønsker å bidra med i prosjektet. For å styrke relasjonsbyggingen kan man også ta med noe mer personlig, som interesser eller erfaring med lokalt samfunnsarbeid. Slike presentasjoner gjør det lettere for deltakerne å se hvordan ulike perspektiver kan utfylle hverandre, og de bidrar til å bygge gjensidig tillit.
+Hvert medlem introduserer seg selv, sin faglige kompetanse, personlige perspektiver og hva de ønsker å bidra med i prosjektet. For å styrke relasjonsbyggingen kan man også ta med noe mer personlig, som interesser eller erfaring med lokalt samfunnsarbeid. Slike presentasjoner gjør det lettere for deltakerne å se hvordan ulike perspektiver kan utfylle hverandre, og de bidrar til å bygge gjensidig tillit. Dette samsvarer med gruppepsykologiske prinsipper om at tidlig åpenhet og deling styrker trygghet og samarbeid i team (Gjøsund & Huseby, 2023).
 
 
 **Arbeidsmetoder og kommunikasjon** <br>
-Gruppen blir enige om dokumentasjon og verktøy (f.eks. Teams, Zoom eller Google Workspace) og felles rutiner for møter. I tillegg avklares møtestrukturer som ukentlige statusmøter, månedlige milepølsgjennomganger og beslutningsprosesser. Dette etablerer en struktur som sikrer større grad av forutsigbarhet i samarbeidet. Klare rutiner for koordinering og kommunikasjon er avgjørende for at et prosjekt med mange ulike aktører skal fungere effektivt.
+Gruppen blir enige om dokumentasjon og verktøy (f.eks. Teams, Zoom eller Google Workspace) og felles rutiner for møter. I tillegg avklares møtestrukturer som ukentlige statusmøter, månedlige milepølsgjennomganger og beslutningsprosesser. Dette etablerer en struktur som sikrer større grad av forutsigbarhet i samarbeidet. Klare rutiner for koordinering og kommunikasjon er avgjørende for at et prosjekt med mange ulike aktører skal fungere effektivt (Jacobsen, 2016; Gjøsund & huseby, 2023).
 
 **Pseudo-arbeid for relasjonsbygging**<br>
-Et viktig element i oppstartsmøter er pseudo-arbeid, aktiviteter som ikke direkte handler om prosjektets kjerneoppgaver, men som bygger samhold og styrker samarbeidet. Et eksempel kan være en kort workshop der teamet i fellesskap diskuterer hvordan innbyggerne best kan trekkes inn i portalen, eller en problemløsningsøvelse som må løses i fellesskap. Slike aktiviteter styrker tryggheten, gir tidlige samarbeidserfaringer og gjør det enklere å innlede dialog.
+Et viktig element i oppstartsmøter er pseudo-arbeid, aktiviteter som ikke direkte handler om prosjektets kjerneoppgaver, men som bygger samhold og styrker samarbeidet. Et eksempel kan være en kort workshop der teamet i fellesskap diskuterer hvordan innbyggerne best kan trekkes inn i portalen, eller en problemløsningsøvelse som må løses i fellesskap. Slike aktiviteter styrker tryggheten, gir tidlige samarbeidserfaringer og gjør det enklere å innlede dialog (Gjøsund & Huseby, 2023).
 
 **Forventningsavklaring og avslutning**<br>
-Mot slutten av møtet får hvert medlem formulere hva de ser på som prosjektets viktigste mål eller suksesskriterium, samt hva de selv trenger fra de andre for å lykkes. Dette gir prosjektleder innsikt i individuelle forventninger og gjør det enklere å justere samarbeidet underveis. Prosjektleder oppsummerer deretter, tydeliggjør neste steg og sikrer at alle forlater møtet med en felles forståelse, retning og følelse av fellesskap.
+Mot slutten av møtet får hvert medlem formulere hva de ser på som prosjektets viktigste mål eller suksesskriterium, samt hva de selv trenger fra de andre for å lykkes. Dette gir prosjektleder innsikt i individuelle forventninger og gjør det enklere å justere samarbeidet underveis. Prosjektleder oppsummerer deretter, tydeliggjør neste steg og sikrer at alle forlater møtet med en felles forståelse, retning og følelse av fellesskap (Jacobsen, 2016).
 
 ***
 
@@ -167,6 +167,10 @@ Dette sikrer da at prosjektet leverer effektivt, kostnadsbevisst og derfor med h
 
 ### Referanseliste
 
+Jacobsen, D. I. (2016). Engangsorganisasjonen Organisering og ledelse av prosjekter. Fagbokforlaget.
+
+Gjørsund, P & Huseby, R. (2025). To eller flere... Basiskunnskaper i gruppepsykologi. (4.utg.). Cappelen damm akademisk.
+
 **Kommunikasjonsforeningen.** (2024, 2. desember). *Sjekkliste for mangfoldig rekruttering*. Kommunikasjonsforeningen.  
 https://www.kommunikasjon.no/arkiv/mangfold/artikler/sjekkliste-for-mangfoldig-rekruttering  
 
@@ -178,7 +182,7 @@ https://www.youtube.com/watch?v=3AWHral3MLE
 
 **AI/KI verktøy**
 
-Redegjørelse: Noen medlemmer har brukt AI (Google Gemini Model, 2025) til å få forklaringer på begreper. AI-en ble brukt som et læringsverktøy for å forstå begreper og sammenhenger, ikke til å produsere egne tekst eller slik. Melemmet har ikke direkte brukt Gemini, men google AI Overview på Google og brukt dropdowns for å lese og forstå.
+Redegjørelse: Noen medlemmer har brukt AI (Google Gemini Model, 2025) til å få forklaringer på begreper. AI-en ble brukt som et læringsverktøy for å forstå begreper og sammenhenger, ikke til å produsere egne tekst eller slik. Medlemmet har ikke direkte brukt Gemini, men google AI Overview på Google og brukt dropdowns for å lese og forstå.
 
 Copilot: Enkelete har brukt Copilot i oppgaven, som hjelpemiddel for bruk av f.eks reposetories, push/pull osv.
 
