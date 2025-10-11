@@ -167,6 +167,10 @@ Dette sikrer da at prosjektet leverer effektivt, kostnadsbevisst og derfor med h
 
 ### Referanseliste
 
+Jacobsen, D. I. (2016). Engangsorganisasjonen Organisering og ledelse av prosjekter. Fagbokforlaget.
+
+Gjørsund, P & Huseby, R. (2025). To eller flere... Basiskunnskaper i gruppepsykologi. (4.utg.). Cappelen damm akademisk.
+
 **Kommunikasjonsforeningen.** (2024, 2. desember). *Sjekkliste for mangfoldig rekruttering*. Kommunikasjonsforeningen.  
 https://www.kommunikasjon.no/arkiv/mangfold/artikler/sjekkliste-for-mangfoldig-rekruttering  
 
@@ -178,7 +182,7 @@ https://www.youtube.com/watch?v=3AWHral3MLE
 
 **AI/KI verktøy**
 
-Redegjørelse: Noen medlemmer har brukt AI (Google Gemini Model, 2025) til å få forklaringer på begreper. AI-en ble brukt som et læringsverktøy for å forstå begreper og sammenhenger, ikke til å produsere egne tekst eller slik. Melemmet har ikke direkte brukt Gemini, men google AI Overview på Google og brukt dropdowns for å lese og forstå.
+Redegjørelse: Noen medlemmer har brukt AI (Google Gemini Model, 2025) til å få forklaringer på begreper. AI-en ble brukt som et læringsverktøy for å forstå begreper og sammenhenger, ikke til å produsere egne tekst eller slik. Medlemmet har ikke direkte brukt Gemini, men google AI Overview på Google og brukt dropdowns for å lese og forstå.
 
 Copilot: Enkelete har brukt Copilot i oppgaven, som hjelpemiddel for bruk av f.eks reposetories, push/pull osv.
 
