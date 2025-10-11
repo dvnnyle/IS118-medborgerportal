@@ -162,6 +162,23 @@ For at prosjektets skal lykkes.
 
 Dette sikrer da at prosjektet leverer effektivt, kostnadsbevisst og derfor med høy kvalitet, samtidig som portalen gir økt bruker opplevelse og verdi.
 
+***
 
 
+### Referanseliste
+
+**Kommunikasjonsforeningen.** (2024, 2. desember). *Sjekkliste for mangfoldig rekruttering*. Kommunikasjonsforeningen.  
+https://www.kommunikasjon.no/arkiv/mangfold/artikler/sjekkliste-for-mangfoldig-rekruttering  
+
+**Recruiter Preston.** (2023, 10. mai). *How to create the best recruitment strategy?!* [Video]. YouTube.  
+https://www.youtube.com/watch?v=3AWHral3MLE  
+
+
+***
+
+**AI/KI verktøy**
+
+Redegjørelse: Noen medlemmer har brukt AI (Google Gemini Model, 2025) til å få forklaringer på begreper. AI-en ble brukt som et læringsverktøy for å forstå begreper og sammenhenger, ikke til å produsere egne tekst eller slik. Melemmet har ikke direkte brukt Gemini, men google AI Overview på Google og brukt dropdowns for å lese og forstå.
+
+Copilot: Enkelete har brukt Copilot i oppgaven, som hjelpemiddel for bruk av f.eks reposetories, push/pull osv.
 
