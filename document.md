@@ -172,6 +172,8 @@ Dette sikrer da at prosjektet leverer effektivt, kostnadsbevisst og derfor med h
 
 **Gjørsund, P., & Huseby, R.** (2025). *To eller flere... Basiskunnskaper i gruppepsykologi* (4. utg.). Cappelen Damm Akademisk.
 
+**Andersen, E. S., & Schwencke, E**. (2024). Prosjektarbeid: En veiledning for studenter (6. utg.). Fagbokforlaget.
+
 **Kommunikasjonsforeningen.** (2024). *Sjekkliste for mangfoldig rekruttering*. Kommunikasjonsforeningen.  
 https://www.kommunikasjon.no/arkiv/mangfold/artikler/sjekkliste-for-mangfoldig-rekruttering  
 
