@@ -12,13 +12,14 @@ For å oppnå utvikling av medborgerportalen er det avgjørende å ha en effekti
 - Administrasjon: Representanter fra kommunens IT og kulturavdeling, som kan sørge for at løsningen blir forankret i kommunens drift og regelverk.
 - Integrasjon: Eksperter på datasikkerhet og systemintegrasjon, som kan sikre at portalen fungerer sammen med eksisterende systemer.
 - Entreprenørskap: Ressurser som kan drive innovasjon og sørge for at prosjektet ikke bare blir teknisk funksjonelt, men også nyskapende og relevant for innbyggerne.
-- Mangfold gir prosjektet tilgang til flere perspektiver, noe som reduserer risikoen for ensidige løsninger, styrker kvaliteten i utviklingen og gjør sluttproduktet mer helhetlig.
+- Mangfold gir prosjektet tilgang til flere perspektiver, noe som reduserer risikoen for ensidige løsninger, styrker kvaliteten i utviklingen og gjør sluttproduktet mer helhetlig. 
+
 
 **Behovet for sosial og demografisk likhet** <br>
-Når man velger medlemmer til prosjektgruppen, er det viktig å ta hensyn til behovet for sosial og demografisk likhet. Selv om mangfold er avgjørende for å gi rom for ulike synspunkter og erfaringer, er det også avgjørende at gruppen deler noen felles egenskaper som kan bidra til bedre samarbeid og tillit fra starten. Et sterkt fellesskap dannes når alle har en felles motivasjon og vet at prosjektets hovedmål er å øke innbyggernes engasjement og åpenhet. Videre bidrar enighet om arbeidsmetoder som kommunikasjonsverktøy, beslutningsprosesser og møter til å skape struktur og redusere konflikt. Videre kan det være lettere å bygge relasjoner og bygge en "vi-følelse" tidlig i prosessen hvis folk er like i alder, utdanningsbakgrunn eller kunnskap om området. Som et resultat er det viktig å opprettholde en balanse mellom ulikheter og likhet: For mye heterogenitet i begynnelsen kan føre til konflikter og vanskeligheter med å samarbeide, mens for mye likhet kan føre til at prosjektet mister viktige perspektiver og kritisk tenkning.
+Når man velger medlemmer til prosjektgruppen, er det viktig å ta hensyn til behovet for sosial og demografisk likhet. Selv om mangfold er avgjørende for å gi rom for ulike synspunkter og erfaringer, er det også avgjørende at gruppen deler noen felles egenskaper som kan bidra til bedre samarbeid og tillit fra starten. Et sterkt fellesskap dannes når alle har en felles motivasjon og vet at prosjektets hovedmål er å øke innbyggernes engasjement og åpenhet. Videre bidrar enighet om arbeidsmetoder som kommunikasjonsverktøy, beslutningsprosesser og møter til å skape struktur og redusere konflikt. Videre kan det være lettere å bygge relasjoner og bygge en "vi-følelse" tidlig i prosessen hvis folk er like i alder, utdanningsbakgrunn eller kunnskap om området. Som et resultat er det viktig å opprettholde en balanse mellom ulikheter og likhet, for mye heterogenitet i begynnelsen kan føre til konflikter og vanskeligheter med å samarbeide, mens for mye likhet kan føre til at prosjektet mister viktige perspektiver og kritisk tenkning (Pew Research Center, 2023).
 
 **Hvorfor dette må planlegges tidlig** <br>
-For å sikre fremdrift og kvalitet i prosjektet, er det viktig å tenke strategisk om rekruttering og sammensetning tidlig i prosessen. Et godt sammensveiset team kan skape effektive arbeidsrutiner raskt og bruke mindre tid på konflikter i teamet. Dette resulterer i en mer smidig oppstart. Tidlig rekruttering hjelper også til med å få riktig kompetanse til rett tid, spesielt innen teknologi og sikkerhet. Videre styrker tidlig involvering av innbyggere, politikere og administrasjon prosjektets forankring og legitimitet, noe som bygger tillit i lokalsamfunnet. Videre gjør en tydelig fordeling av roller og kompetanse allerede fra starten arbeidsprosessen mer effektiv og unngår feil, misforståelser og ansvarsgap.Som et resultat bør prosjektteamet settes sammen med et sterkt fokus på faglig mangfold og sosial/demografisk likhet. For å sikre at prosjektet får en solid og vellykket start, vil et strukturert rekrutteringsprosess med klare kompetansestandarder, rollebeskrivelser og felles verdier være et viktig første skritt.
+For å sikre fremdrift og kvalitet i prosjektet, er det viktig å tenke strategisk om rekruttering og sammensetning tidlig i prosessen. Et godt sammensveiset team kan skape effektive arbeidsrutiner raskt og bruke mindre tid på konflikter i teamet. Dette resulterer i en mer smidig oppstart. Tidlig rekruttering hjelper også til med å få riktig kompetanse til rett tid, spesielt innen teknologi og sikkerhet. Videre styrker tidlig involvering av innbyggere, politikere og administrasjon prosjektets forankring og legitimitet, noe som bygger tillit i lokalsamfunnet (Pew Research Center, 2023). Videre gjør en tydelig fordeling av roller og kompetanse allerede fra starten arbeidsprosessen mer effektiv og unngår feil, misforståelser og ansvarsgap.Som et resultat bør prosjektteamet settes sammen med et sterkt fokus på faglig mangfold og sosial/demografisk likhet. For å sikre at prosjektet får en solid og vellykket start, vil et strukturert rekrutteringsprosess med klare kompetansestandarder, rollebeskrivelser og felles verdier være et viktig første skritt. (Praxis42, 2024).
 
 ***
 ### Design av det første møtet
@@ -162,6 +163,36 @@ For at prosjektets skal lykkes.
 
 Dette sikrer da at prosjektet leverer effektivt, kostnadsbevisst og derfor med høy kvalitet, samtidig som portalen gir økt bruker opplevelse og verdi.
 
+***
 
 
+### Referanseliste
+
+**Jacobsen, D. I.** (2016). *Engangsorganisasjonen: Organisering og ledelse av prosjekter.* Fagbokforlaget.
+
+**Gjørsund, P., & Huseby, R.** (2025). *To eller flere... Basiskunnskaper i gruppepsykologi* (4. utg.). Cappelen Damm Akademisk.
+
+**Kommunikasjonsforeningen.** (2024). *Sjekkliste for mangfoldig rekruttering*. Kommunikasjonsforeningen.  
+https://www.kommunikasjon.no/arkiv/mangfold/artikler/sjekkliste-for-mangfoldig-rekruttering  
+
+**Recruiter Preston.** (2023). *How to create the best recruitment strategy?!* [Video]. YouTube.  
+https://www.youtube.com/watch?v=3AWHral3MLE  
+
+**Praxis42.** (2024). *The benefits of equality and diversity in the workplace.*  
+[https://praxis42.com/resources/hr/the-benefits-of-equality-and-diversity-in-the-workplace/](https://praxis42.com/resources/hr/the-benefits-of-equality-and-diversity-in-the-workplace/)
+
+**Pew Research Center.** (2023). *Diversity, equity and inclusion in the workplace.*  
+[https://www.pewresearch.org/social-trends/2023/05/17/diversity-equity-and-inclusion-in-the-workplace/](https://www.pewresearch.org/social-trends/2023/05/17/diversity-equity-and-inclusion-in-the-workplace/)
+
+**Forbes.** (2023). *The power of diversity and inclusion: Driving innovation and success.* Forbes Business Council.  
+[https://www.forbes.com/councils/forbesbusinesscouncil/2023/08/16/the-power-of-diversity-and-inclusion-driving-innovation-and-success/](https://www.forbes.com/councils/forbesbusinesscouncil/2023/08/16/the-power-of-)
+
+
+***
+
+**AI/KI verktøy**
+
+Redegjørelse: Noen medlemmer har brukt AI (Google Gemini Model, 2025) til å få forklaringer på begreper. AI-en ble brukt som et læringsverktøy for å forstå begreper og sammenhenger, ikke til å produsere egne tekst eller slik. Medlemmet har ikke direkte brukt Gemini, men google AI Overview på Google og brukt dropdowns for å lese og forstå.
+
+Copilot: Enkelete har brukt Copilot i oppgaven, som hjelpemiddel for bruk av f.eks reposetories, push/pull osv.
 
