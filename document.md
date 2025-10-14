@@ -88,7 +88,7 @@ Prosjekter på størrelsen som den Erling skal ta hånd om nå, er det mye som m
 
 **Tidspress** 
 
-Tidspress vil oppstå under ett hvert prosjekt med en satt frist. Det kan oppstå via at man ikke avsetter tilstrekkelig med tid til de forskjellige oppgavene avdelingene må gjennomføre under prosjektet, feilkommunikasjon mellom avdelinger eller mellom prosjektleder og avdelinger, feil fordeling av oppgaver basert på fagkunnskap osv.
+Tidspress vil oppstå under ett hvert prosjekt med en satt frist. Det kan oppstå via at man ikke avsetter tilstrekkelig med tid til de forskjellige oppgavene avdelingene må gjennomføre under prosjektet, feilkommunikasjon mellom avdelinger eller mellom prosjektleder og avdelinger, feil fordeling av oppgaver basert på fagkunnskap osv. Dette skaper et tydlig tidspress for alle involvert som kan skape en følelse av at man må skynde seg som kan forårsake feil og mangler. (Jacobsen, 2016, S. 47)
 
 **kommunikasjon**
 
