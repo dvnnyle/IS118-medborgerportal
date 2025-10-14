@@ -113,8 +113,14 @@ Problemløsning er den mest effektive metoden for å løse konflikter og beholde
 
 Prosjekter på størrelsen som den Erling skal ta hånd om nå, er det mye som må tas til hensyn for å nå målene satt. Tidspress og "fellene" ett prosjekt er utsatt for er viktige problemer som prosjektleder må ta hånd om i løpet av start fasene i prosjektet. Her er det viktig og insette en struktur som forebygger at slike problemer ikke oppstår under prosjektet, men hva slags problemer er det snakk om?
 
+
+**Tidspress** 
+
+Tidspress vil oppstå under ett hvert prosjekt med en satt frist. Det kan oppstå via at man ikke avsetter tilstrekkelig med tid til de forskjellige oppgavene avdelingene må gjennomføre under prosjektet, feilkommunikasjon mellom avdelinger eller mellom prosjektleder og avdelinger, feil fordeling av oppgaver basert på fagkunnskap osv. Dette skaper et tydlig tidspress for alle involvert som kan skape en følelse av at man må skynde seg som kan forårsake feil og mangler. (Jacobsen, 2016, S. 47)
+
 **Tidspress** <br>
 Tidspress vil oppstå under ett hvert prosjekt med en satt frist. Det kan oppstå via at man ikke avsetter tilstrekkelig med tid til de forskjellige oppgavene avdelingene må gjennomføre under prosjektet, feilkommunikasjon mellom avdelinger eller mellom prosjektleder og avdelinger, feil fordeling av oppgaver basert på fagkunnskap osv.
+
 
 **God og dårlig kommunikasjon** <br>
 Dette kommer kanskje som en selvfølge, men det er vitalt for ett hvert prosjekt at det sikres god kommunikasjon mellom alle involvert. Prosjektleder må ta tiden til å sette opp rutiner til møter og forårsake å dyrke en kultur hvor det er normen og dele all relevant informasjon angående oppgaver med alle som det omganger. Dette vil føre til at problemer som kunne utviklet seg til prosjekt stoppere kan bli oppdaget tidlig og håndtert. Dette vil også gi muligheten til enhver avdeling å kommunisere med andre avdelinger/ledelse og få dyrebar informasjon de ellers ikke vill hatt. Generelt sett vil dette gjøre slik at enhver oppgabe blir sett på av et bredere fagfelt og gi høyere sjans for suksess.
