@@ -3,7 +3,7 @@
 
 ### ⚡ Resultat: [IS118 Medborgerportal - Dokument](https://github.com/dvnnyle/IS118-medborgerportal/blob/main/document.md)
 
-### ⚡ Resultat: [IS118 Medborgerportal Del 2- Dokument](https://github.com/dvnnyle/innleveringsoppgave2/blob/danny/master.py)
+### ⚡ Resultat: [IS118 Medborgerportal Del 2- Dokument](https://github.com/dvnnyle/IS118-medborgerportal/tree/main/innleveringsoppgave2)
 
 ### ⚡ Du kan finne hvert medlems versjon her: [crewmates](https://github.com/dvnnyle/innleveringsoppgave2/tree/danny/crewmates)
 
