@@ -5,7 +5,7 @@
 Denne prosjektlederpakken, skal fokusere på den første fasen av utviklingen av kommunens digitale medborgerportal. Målet er å forbedre formingsfasen for å gjøre prosjektgruppen til et godt samarbeidende team som kan håndtere problemer effektivt fra starten. Pakken legger vekt på sosialt mangfold og faglig mangfold når det gjelder ansettelse, oppstartsmøter, relasjonskontrakter, konflikthåndtering, tidspress og kommunikasjon. Prosjektlederen kan øke sannsynligheten for at prosjektet når sine mål innen tidsramme, budsjett og kvalitet ved å følge veiledningen.
 
 ### Strategi for rekruttering og sammensetning  
-For å oppnå utvikling av medborgerportalen er det avgjørende å ha en effektiv prosjektgruppe. Som et resultat bør rekrutteringsplanen konsentrere seg om å balansere mangfold og komplementere ferdigheter med en viss grad av sosial og demografisk likhet. Dette bidrar til å sikre både et mangfoldig utvalg av synspunkter og en tidlig etablering av samarbeid og tillit mellom medlemmer av gruppen.
+For å oppnå utvikling av medborgerportalen er det avgjørende å ha en effektiv prosjektgruppe. Som et resultat bør rekrutteringsplanen konsentrere seg om å balansere mangfold og komplementere ferdigheter med en viss grad av sosial og demografisk likhet. Dette bidrar til å sikre både et mangfoldig utvalg av synspunkter og en tidlig etablering av samarbeid og tillit mellom medlemmer av gruppen. 
 
 **Behovet for mangfold**<br>
 - Produksjon: Tekniske ressurser som utviklere og UX/UI-designere, som kan lage selve løsningen.
@@ -16,7 +16,7 @@ For å oppnå utvikling av medborgerportalen er det avgjørende å ha en effekti
 
 
 **Behovet for sosial og demografisk likhet** <br>
-Når man velger medlemmer til prosjektgruppen, er det viktig å ta hensyn til behovet for sosial og demografisk likhet. Selv om mangfold er avgjørende for å gi rom for ulike synspunkter og erfaringer, er det også avgjørende at gruppen deler noen felles egenskaper som kan bidra til bedre samarbeid og tillit fra starten. Et sterkt fellesskap dannes når alle har en felles motivasjon og vet at prosjektets hovedmål er å øke innbyggernes engasjement og åpenhet. Videre bidrar enighet om arbeidsmetoder som kommunikasjonsverktøy, beslutningsprosesser og møter til å skape struktur og redusere konflikt. Videre kan det være lettere å bygge relasjoner og bygge en "vi-følelse" tidlig i prosessen hvis folk er like i alder, utdanningsbakgrunn eller kunnskap om området. Som et resultat er det viktig å opprettholde en balanse mellom ulikheter og likhet, for mye heterogenitet i begynnelsen kan føre til konflikter og vanskeligheter med å samarbeide, mens for mye likhet kan føre til at prosjektet mister viktige perspektiver og kritisk tenkning (Pew Research Center, 2023).
+Når man velger medlemmer til prosjektgruppen, er det viktig å ta hensyn til behovet for sosial og demografisk likhet. Selv om mangfold er avgjørende for å gi rom for ulike synspunkter og erfaringer, er det også avgjørende at gruppen deler noen felles egenskaper som kan bidra til bedre samarbeid og tillit fra starten. Et sterkt fellesskap dannes når alle har en felles motivasjon og vet at prosjektets hovedmål er å øke innbyggernes engasjement og åpenhet. Videre bidrar enighet om arbeidsmetoder som kommunikasjonsverktøy, beslutningsprosesser og møter til å skape struktur og redusere konflikt. Videre kan det være lettere å bygge relasjoner og bygge en "vi-følelse" tidlig i prosessen hvis folk er like i alder, utdanningsbakgrunn eller kunnskap om området. Som et resultat er det viktig å opprettholde en balanse mellom ulikheter og likhet, for mye heterogenitet i begynnelsen kan føre til konflikter og vanskeligheter med å samarbeide, mens for mye likhet kan føre til at prosjektet mister viktige perspektiver og kritisk tenkning (Pew Research Center, 2023) (Allvit, 2022)
 
 **Hvorfor dette må planlegges tidlig** <br>
 For å sikre fremdrift og kvalitet i prosjektet, er det viktig å tenke strategisk om rekruttering og sammensetning tidlig i prosessen. Et godt sammensveiset team kan skape effektive arbeidsrutiner raskt og bruke mindre tid på konflikter i teamet. Dette resulterer i en mer smidig oppstart. Tidlig rekruttering hjelper også til med å få riktig kompetanse til rett tid, spesielt innen teknologi og sikkerhet. Videre styrker tidlig involvering av innbyggere, politikere og administrasjon prosjektets forankring og legitimitet, noe som bygger tillit i lokalsamfunnet (Pew Research Center, 2023). Videre gjør en tydelig fordeling av roller og kompetanse allerede fra starten arbeidsprosessen mer effektiv og unngår feil, misforståelser og ansvarsgap.Som et resultat bør prosjektteamet settes sammen med et sterkt fokus på faglig mangfold og sosial/demografisk likhet. For å sikre at prosjektet får en solid og vellykket start, vil et strukturert rekrutteringsprosess med klare kompetansestandarder, rollebeskrivelser og felles verdier være et viktig første skritt. (Praxis42, 2024).
@@ -113,8 +113,14 @@ Problemløsning er den mest effektive metoden for å løse konflikter og beholde
 
 Prosjekter på størrelsen som den Erling skal ta hånd om nå, er det mye som må tas til hensyn for å nå målene satt. Tidspress og "fellene" ett prosjekt er utsatt for er viktige problemer som prosjektleder må ta hånd om i løpet av start fasene i prosjektet. Her er det viktig og insette en struktur som forebygger at slike problemer ikke oppstår under prosjektet, men hva slags problemer er det snakk om?
 
+
+**Tidspress** 
+
+Tidspress vil oppstå under ett hvert prosjekt med en satt frist. Det kan oppstå via at man ikke avsetter tilstrekkelig med tid til de forskjellige oppgavene avdelingene må gjennomføre under prosjektet, feilkommunikasjon mellom avdelinger eller mellom prosjektleder og avdelinger, feil fordeling av oppgaver basert på fagkunnskap osv. Dette skaper et tydlig tidspress for alle involvert som kan skape en følelse av at man må skynde seg som kan forårsake feil og mangler. (Jacobsen, 2016, S. 47)
+
 **Tidspress** <br>
 Tidspress vil oppstå under ett hvert prosjekt med en satt frist. Det kan oppstå via at man ikke avsetter tilstrekkelig med tid til de forskjellige oppgavene avdelingene må gjennomføre under prosjektet, feilkommunikasjon mellom avdelinger eller mellom prosjektleder og avdelinger, feil fordeling av oppgaver basert på fagkunnskap osv.
+
 
 **God og dårlig kommunikasjon** <br>
 Dette kommer kanskje som en selvfølge, men det er vitalt for ett hvert prosjekt at det sikres god kommunikasjon mellom alle involvert. Prosjektleder må ta tiden til å sette opp rutiner til møter og forårsake å dyrke en kultur hvor det er normen og dele all relevant informasjon angående oppgaver med alle som det omganger. Dette vil føre til at problemer som kunne utviklet seg til prosjekt stoppere kan bli oppdaget tidlig og håndtert. Dette vil også gi muligheten til enhver avdeling å kommunisere med andre avdelinger/ledelse og få dyrebar informasjon de ellers ikke vill hatt. Generelt sett vil dette gjøre slik at enhver oppgabe blir sett på av et bredere fagfelt og gi høyere sjans for suksess.
@@ -171,6 +177,14 @@ Dette sikrer da at prosjektet leverer effektivt, kostnadsbevisst og derfor med h
 **Jacobsen, D. I.** (2016). *Engangsorganisasjonen: Organisering og ledelse av prosjekter.* Fagbokforlaget.
 
 **Gjørsund, P., & Huseby, R.** (2025). *To eller flere... Basiskunnskaper i gruppepsykologi* (4. utg.). Cappelen Damm Akademisk.
+
+**Andersen, E. S., & Schwencke, E**. (2024). Prosjektarbeid: En veiledning for studenter (6. utg.). Fagbokforlaget.
+
+**Allvit.** (2022). *Hvordan få gruppearbeidet til å fungere?* Allvit.  
+[https://allvit.no/blogg/hvordan-fa-gruppearbeidet-til-a-fungere](https://allvit.no/blogg/hvordan-fa-gruppearbeidet-til-a-fungere)
+
+**FreeConference.com.** (ukjent). *Viktigheten av teamarbeid og samarbeid.* FreeConference.com.  
+[https://www.freeconference.com/no/the-importance-of-teamwork/](https://www.freeconference.com/no/the-importance-of-teamwork/)
 
 **Kommunikasjonsforeningen.** (2024). *Sjekkliste for mangfoldig rekruttering*. Kommunikasjonsforeningen.  
 https://www.kommunikasjon.no/arkiv/mangfold/artikler/sjekkliste-for-mangfoldig-rekruttering  
