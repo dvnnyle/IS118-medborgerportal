@@ -5,7 +5,7 @@ print("Teamet ditt består av dyktige, men og kvinner med sterke meninger.\n")
 print("Du må ta fem viktige valg for å lede dem videre.\n")
 print("Skriv 'A' eller 'B' for hvert valg.\n")
 print("Er du klar?")
-svar = input("👉 Skriv JA eller NEI: ").upper()
+svar = input(" Skriv JA eller NEI: ").upper()
 
 if svar == "JA":
     print("Flott! La oss begynne!\n")
@@ -92,3 +92,42 @@ print(f"Dialog mellom teammedlemmer: {dialog}")
 print(f"Motivasjonsnivå: {motivasjon}")
 print(f"Arbeidsbelastning: {arbeidsbelastning}")
 print(f"Press fra ledelsen: {press}")
+
+# Beregn poeng: gi poeng for gode valg, trekk for negative valg, og normaliser til 0-5
+score = 0
+if konflikt == "rolig":
+    score += 1
+elif konflikt == "åpen":
+    score -= 1
+
+if dialog == "bedre":
+    score += 1
+elif dialog == "verre":
+    score -= 1
+
+if motivasjon == "høy":
+    score += 1
+elif motivasjon == "lav":
+    score -= 1
+
+if arbeidsbelastning == "forstått":
+    score += 1
+elif arbeidsbelastning == "misfornøyd":
+    score -= 1
+
+if press == "balansert":
+    score += 1
+elif press == "høyt":
+    score -= 1
+
+# Sikre at score ligger innenfor 0 til 5
+score = max(0, min(5, score))
+
+print(f"\nDin poengsum: {score} av 5")
+
+if score == 5:
+    print("Fantastisk jobb! Du har navigert gjennom utfordringene og ledet teamet ditt til suksess! 🌟")
+elif score >= 3:
+    print("Bra jobbet! Du har mange riktige valg, men det er rom for forbedring.")
+else:
+    print("Du gjorde ditt beste! Hver leder lærer av sine erfaringer. Prøv igjen for å forbedre dine ferdigheter!")
