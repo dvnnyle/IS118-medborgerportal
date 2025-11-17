@@ -77,7 +77,7 @@ elif sak in [("A", "A", "B"), ("A", "B", "A"), ("B", "B", "A"), ("A", "B", "B")]
     "av manglende strukturer og tydelige forventningsavklaringer."
 elif sak in [("B", "A", "B")]:
     utfall = "Selv om det ble gjennomført et avklaringsmøte, førte valgene dine til økt arbeidsbelastning og redusert motivasjon. "\
-    "Konflikten mellom Silje og Sivert er dempet, men teamet er preget av stress. Prosjektet går videre, "
+    "Konflikten mellom Silje og Sivert er dempet, men teamet er preget av stress. Prosjektet går videre, "\
     "men uten et robust samarbeidsgrunnlag."
 elif sak in [("B", "B", "B")]:
     utfall = "Ved å avvente begge konfliktene og samtidig prioritere leveranser over relasjoner, "\
