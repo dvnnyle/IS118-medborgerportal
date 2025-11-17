@@ -5,7 +5,7 @@ def yes_no(prompt)->bool:
             return True
         if svar in ['NEI', 'N']:
             return False
-        print("Ugyldig svar - vennligst svar med 'JA' eller Nei'.")
+        print("Ugyldig svar - vennligst svar med 'JA' eller 'NEI'.")
 
 def valg_a_b(prompt):
     while True:
@@ -25,7 +25,7 @@ print("\nKonflikt mellom Silje og Sivert")
 print("\nValg 1: Silje (designer) og Sivert (IT) er i konflikt om teknologi.")
 valg1 = valg_a_b(
     "A) Ta opp uenigheten i hele teamet slik alle får samme informasjon\n" 
-    "B) Ha seperate samtaler med Silje og SiverT for å dempe konflikten individuelt\n> ")
+    "B) Ha separate samtaler med Silje og Sivert for å dempe konflikten individuelt\n> ")
 
 print("\nUenighet mellom Hamdi og Jabir")
 print("\nValg 2: Hamdi ønsker en plattform for innbyggerdialog, mens Jabir foretrekker åpen dialog.")
@@ -47,7 +47,7 @@ if valg1 == "A":
     " men kan øke spenningen i gruppa på kort sikt. ")
 else:
     print("\nDu velger individuelle samtaler. Dette kan dempe konflikten raskt mellom de involverte," 
-    " men risikerer misforståelser i teamet.")
+    " men risikerer misforståelser i resten av teamet.")
 
 if valg2 == "A":
     print("\nDu tar initiativ til et felles møte. Det kan bidra til å avklare forventninger "
@@ -63,30 +63,30 @@ else:
     print("\nDu fokuserer på leveranser og fremdrift. Det kan gi tydelig fokus på mål, "
             "men risikoen er at slitasje og motivasjonsfall øker over tid.")
     
-if sak in [("A", "A", "A"),]:
-    utfall = "Konfliktene ble håntert åpent og strukturert, noe som skapte bedre forståelse og trygghet " \
-    "i teamet. Relasjonsfokuset bidro til økt motivasjon, og teamet beveger seg tydelig inn i en norming fase. "\
-    "Prosjektet lever en solid prototype innen fristen og samarbeidsklimaet er sterkt."
-elif sak in [("B", "A", "A"),]: 
-    utfall = "Individuelle samtaler bidro til å redusere konfliktnivået mellom Silje og Sivert, " \
+if sak in [("A", "A", "A")]:
+    utfall = "Konfliktene ble håndtert åpent og strukturert, noe som skapte bedre forståelse og trygghet " \
+    "i teamet. Relasjonsfokuset bidro til økt motivasjon, og teamet beveger seg tydelig inn i en norming-fase. "\
+    "Prosjektet leverer en solid prototype innen fristen og samarbeidsklimaet er sterkt."
+elif sak in [("B", "A", "A")]: 
+    utfall = "Individuelle samtaler bidro til å redusere konfliktnivået mellom Silje og Sivert. " \
     "Fellesmøtet mellom Hamdi og Jabir hjalp til med å avklare uenigheter."\
     "Motivasjonen øker, og teamet jobber godt videre, selv om enkelte relasjoner fortsatt krever litt oppfølging."
-elif sak in [("A", "A", "B"), ("A", "B", "A"), ("B", "B", "A"), ("A", "B", "B"),]:
-    utfall = "Noen utfordringer ble håndtert, mens andre forble uavklarte. Dette gir en ujev teamdynamikk, "\
-    "og motivasjonen varierer. Prosjektet går fremover, men samarbedet er til tider ustabilt på grunn "\
-    "av manglede strukturer og tydelige forventningsavklaringer."
-elif sak in [("B", "A", "B"),]:
+elif sak in [("A", "A", "B"), ("A", "B", "A"), ("B", "B", "A"), ("A", "B", "B")]:
+    utfall = "Noen utfordringer ble håndtert, mens andre forble uavklarte. Dette gir en ujevn teamdynamikk, "\
+    "og motivasjonen varierer. Prosjektet går fremover, men samarbeidet er til tider ustabilt på grunn "\
+    "av manglende strukturer og tydelige forventningsavklaringer."
+elif sak in [("B", "A", "B")]:
     utfall = "Selv om det ble gjennomført et avklaringsmøte, førte valgene dine til økt arbeidsbelastning og redusert motivasjon. "\
     "Konflikten mellom Silje og Sivert er dempet, men teamet er preget av stress. Prosjektet går videre, "
-    "men uten et robust samarbeidsgrunnlag"
-elif sak in [("B", "B", "B"),]:
-        utfall = "ved a avvente begge konfliktene og samtidig prioritere leverannser over relasjoner, "\
-        "blir både kommunijasjon og motivasjon svekket. Teamet forblir i en storming fase, og ulmende konflikter får vokse. "\
+    "men uten et robust samarbeidsgrunnlag."
+elif sak in [("B", "B", "B")]:
+    utfall = "Ved å avvente begge konfliktene og samtidig prioritere leveranser over relasjoner, "\
+        "blir både kommunikasjon og motivasjon svekket. Teamet forblir i en storming-fase, og ulmende konflikter får vokse. "\
         "Prosjektet står i fare for å stagnere dersom tydelige tiltak settes inn."
 else:
-    utfall = "Prosjektet viser blandende tendenser. Teamet kommer videre, men der er fortsatt flere utfordringer knyttet til kommunikasjon,"\
+    utfall = "Prosjektet viser blandede tendenser. Teamet kommer videre, men det er fortsatt flere utfordringer knyttet til kommunikasjon,"\
     "rolleavklaring og forventningsstyring. Videre ledelse bør fokusere på relasjoner og felles forståelse for å sikre fremdrift."
 
-print("\n Sluttresultat:")
+print("\nSluttresultat:")
 print(utfall)
 print("\nTakk for at du deltok i simuleringen av Erling sitt prosjekt!.")
