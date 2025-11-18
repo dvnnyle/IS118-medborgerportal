@@ -45,3 +45,18 @@ else:
     print("Ugyldig valg! Velger automatisk A.")
     konflikt = "åpen"
 
+print(" Level 2: \n")
+print("Konflikt 2: Uenighet mellom Hamdi (kulturavdelingen) og Jabir (brukerrepresentant)")
+print("...")
+print("...")
+print("...")
+level2 = input("A) ...nB) ...\n> ").lower()
+if level2 == "a":
+    dialog = "bedre"
+    print("...")
+elif level2 == "b":
+    dialog = "verre"
+    print("...")
+else:
+    print("Ugyldig valg! Velger automatisk A.")
+    konflikt = "bedre"
