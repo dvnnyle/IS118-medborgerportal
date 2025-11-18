@@ -42,7 +42,7 @@ print(F"{BOLD}\nSituasjon #1: {RESET}\n")
 print("Silje (designer) og Sivert (IT-rådgiver) er uenige teknologivalg og design. Konflikten har eskalert fra en sakskonflikt til en personkonflikt.")
 print("Silje mener løsningen til Sivert vil låse brukeropplevelsen og hindre innovasjon.")
 print("Sivert mener Silje ikke forstår de tekniske begrensningene og at hennes forslag er urealistiske og for kostbart.\n")
-print("Erling må ta en beslutning for å håndtere konflikten mellom Silje og Sivert. han kan velge å ta det opp i plenum eller snakke med dem hver for seg.\n")
+print("Erling må ta en beslutning for å håndtere konflikten mellom Silje og Sivert. Han kan velge å ta det opp i plenum eller snakke med dem hver for seg.\n")
 
 print(f"{BOLD}Hva velger du å gjøre?{RESET}")
 valg1 = valg_a_b(
@@ -52,17 +52,30 @@ valg1 = valg_a_b(
 if valg1 == "A":
     konflikt = "åpen"
     print("Du tar det opp i plenum. Stemningen er spent, men alle får samme informasjon.")
-elif valg1 == "B":
+else:
     konflikt = "rolig"
     print("Du snakker med dem individuelt. Konflikten roer seg litt mellom de involverte.")
-else:
-    print("Ugyldig valg! Velger automatisk A.")
-    konflikt = "åpen"
+
 
 
 print(F"{BOLD}\nSituasjon #2: {RESET}\n")
 
+print("Hamdi (kulturavdelingen) og Jabir (brukerrepresentant) er uenige om plattformens funksjoner.")
+print("Hamdi ønsker en plattform som fremmer innbyggerdialog og kulturelle arrangementer.")
+print("Jabir foretrekker en mer åpen dialogplattform som fokuserer på direkte kommunikasjon mellom innbyggere og kommunen.\n")
+print("Erling merker at denne uenigheten begynner å skape spenninger i teamet. Han må bestemme seg for hvordan han skal håndtere situasjonen.\n")
 
+print(f"{BOLD}Hva velger du å gjøre?{RESET}")
+valg2 = valg_a_b(
+    "A) Kall inn til et felles avklaringsmøte for å finne en løsning sammen\n"
+    "B) Avvent situasjonen og se om konflikten løser seg selv over tid\n")
+if valg2 == "A":
+    dialog = "bedre"
+    print("Du tar initiativ til et felles møte. Det bidrar til å avklare forventninger og redusere misforståelser.")
+else:
+    dialog = "verre"
+    print("Du velger å avvente. Noen ganger kan konflikter løse seg selv, men det er en risiko for at situasjonen forverres.")
+    
 print(F"{BOLD}\nSituasjon #3: {RESET}\n")
 
 #TODO LAGE ENDINGER BASERT PÅ VALGENE
