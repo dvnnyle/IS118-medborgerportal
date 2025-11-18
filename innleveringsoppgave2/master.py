@@ -21,3 +21,9 @@ elif start_valg in ['B', 'NEI', 'N']:
 else:
     print("LOL, Du har ikke noe valg. Starter simulasjonen likevel...\n")
 
+#TODO LAGE NIVÅER / SITUASJONER
+
+#TODO LAGE ENDINGER BASERT PÅ VALGENE
+
+#TODO EVENTUELT LAGE POENGSYSTEM
+
