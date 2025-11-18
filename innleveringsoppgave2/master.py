@@ -16,7 +16,7 @@ def ja_nei(prompt)->bool:
 
 def valg_a_b(prompt):
     while True:
-        valg = input(prompt + "\nVelg: A/B:\n").strip().upper()
+        valg = input(prompt + "\nVelg: A eller B:\n").strip().upper()
         if valg in ['A', 'B']:
             return valg
         print("Ugyldig svar - vennligst svar med 'A' eller 'B'.")
@@ -32,6 +32,8 @@ print("Teamet begynner å møte utfordringer. Du må ta tre viktige valg for å 
 if not ja_nei("Vil du starte prosjektet?"):
     print("Ingen problem. Kom tilbake når du er klar.")
     exit()
+
+print("\n---------------")
 
 #TODO LAGE NIVÅER / SITUASJONER
 
