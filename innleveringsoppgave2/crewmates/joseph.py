@@ -21,13 +21,13 @@ if not yes_no("Vil du starte prosjektet?"):
     print("Ingen problem. Kom tilbake når du er klar.")
     exit()
 
-print("\nKonflikt mellom Silje og Sivert")
-print("\nValg 1: Silje (designer) og Sivert (IT) er i konflikt om teknologi.")
+print("\nKonflikt mellom Silje (designer) og Sivert (IT)")
+print("\nValg 1: Silje og Sivert er i konflikt om teknologi.")
 valg1 = valg_a_b(
     "A) Ta opp uenigheten i hele teamet slik alle får samme informasjon\n" 
     "B) Ha separate samtaler med Silje og Sivert for å dempe konflikten individuelt\n> ")
 
-print("\nUenighet mellom Hamdi og Jabir")
+print("\nUenighet mellom Hamdi (kulturavedlingen) og Jabir (brukerrepresentant)")
 print("\nValg 2: Hamdi ønsker en plattform for innbyggerdialog, mens Jabir foretrekker åpen dialog.")
 valg2 = valg_a_b(
     "A) Kall inn til et felles avklaringsmøte for å finne en løsning sammen\n"
