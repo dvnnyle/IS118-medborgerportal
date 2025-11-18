@@ -90,4 +90,4 @@ else:
 
 print("\nSluttresultat:")
 print(utfall)
-print("\nTakk for at du deltok i simuleringen av Erling sitt prosjekt!.")
+print("\nTakk for at du deltok i simuleringen av Erling sitt prosjekt!.\n")
