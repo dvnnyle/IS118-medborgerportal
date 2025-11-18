@@ -42,25 +42,26 @@ valg3 = valg_a_b(
 utfall = None 
 sak = (valg1, valg2, valg3)
 
+print("\nDine valg:")
 if valg1 == "A":
-    print("\nDu velger å ta konflikten opp i plenum. Det gir åpenhet og felles informasjon,"
+    print("\nValg 1""\nDu velger å ta konflikten opp i plenum. Det gir åpenhet og felles informasjon,"
     " men kan øke spenningen i gruppa på kort sikt. ")
 else:
-    print("\nDu velger individuelle samtaler. Dette kan dempe konflikten raskt mellom de involverte," 
+    print("\nValg 1""\nDu velger individuelle samtaler. Dette kan dempe konflikten raskt mellom de involverte," 
     " men risikerer misforståelser i resten av teamet.")
 
 if valg2 == "A":
-    print("\nDu tar initiativ til et felles møte. Det kan bidra til å avklare forventninger "
+    print("\nValg 2""\nDu tar initiativ til et felles møte. Det kan bidra til å avklare forventninger "
           "og redusere misforståelser før konflikten eskalerer.")
 else:
-    print("\nDu velger å avvente. Noen ganger kan konflikter løse seg selv, "
+    print("\nValg 2""\nDu velger å avvente. Noen ganger kan konflikter løse seg selv, "
             "men det er en risiko for at situasjonen forverres.")
 
 if valg3 == "A":
-    print("\nDu prioriterer relasjoner og teambygging. Dette kan styrke teamets samhold og motivasjon "
+    print("\nValg 3""\nDu prioriterer relasjoner og teambygging. Dette kan styrke teamets samhold og motivasjon "
           "på lang sikt.")
 else:
-    print("\nDu fokuserer på leveranser og fremdrift. Det kan gi tydelig fokus på mål, "
+    print("\nValg 3""\nDu fokuserer på leveranser og fremdrift. Det kan gi tydelig fokus på mål, "
             "men risikoen er at slitasje og motivasjonsfall øker over tid.")
     
 if sak in [("A", "A", "A")]:
