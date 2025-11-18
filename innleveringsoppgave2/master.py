@@ -60,3 +60,19 @@ elif level2 == "b":
 else:
     print("Ugyldig valg! Velger automatisk A.")
     konflikt = "bedre"
+
+print(" Level 3: \n")
+print(" motivasjon)")
+print("...")
+print("...")
+print("...")
+level3 = input("A) ...nB) ...\n> ").lower()
+if level3 == "a":
+    motivasjon = "høy"
+    print("...")
+elif level3 == "b":
+    motivasjon = "lav"
+    print("...")
+else:
+    print("Ugyldig valg! Velger automatisk A.")
+    motivasjon = "høy"
