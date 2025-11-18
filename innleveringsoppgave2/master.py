@@ -21,9 +21,27 @@ elif start_valg in ['B', 'NEI', 'N']:
 else:
     print("LOL, Du har ikke noe valg. Starter simulasjonen likevel...\n")
 
+
 #TODO LAGE NIVÅER / SITUASJONER
 
 #TODO LAGE ENDINGER BASERT PÅ VALGENE
 
 #TODO EVENTUELT LAGE POENGSYSTEM
+=======
+
+print(" Level 1: \n")
+print("Konflikt 1: Silje (designer) og Sivert (IT-rådgiver) er uenige teknologivalg og design. Konflikten har eskalert fra en sakskonflikt til en personkonflikt")
+print("Silje mener løsningen til Sivert vil låse brukeropplevelsen og hindre innovasjon.")
+print("Sivert mener Silje ikke forstår de tekniske begrensningene og at hennes forslag er urealistiske og for kostbart.")
+print("Erling må ta en beslutning for å håndtere konflikten mellom Silje og Sivert. han kan velge å ta det opp i plenum eller snakke med dem hver for seg.")
+level1 = input("A) Tar det opp i plenum\nB) Snakker med dem hver for seg\n> ").lower()
+if level1 == "a":
+    konflikt = "åpen"
+    print("Du tar det opp i plenum. Stemningen er spent, men roer seg litt men fortsatt spent")
+elif level1 == "b":
+    konflikt = "rolig"
+    print("Du snakker med dem individuelt. Konflikten roer seg litt, men det er enda spenning mellom Silje og Sivert.")
+else:
+    print("Ugyldig valg! Velger automatisk A.")
+    konflikt = "åpen"
 
