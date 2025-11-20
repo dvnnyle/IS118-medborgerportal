@@ -94,6 +94,10 @@ else:
     
 print(F"{BOLD}\nSituasjon #3: {RESET}\n")
 
+print("Motivasjonen til flere på teamet begynner å synke.")
+print("Hallgeir ønsker mer sosialt innad i teamet for å skape bedre samhold.")
+print("Silje syntes at arbeidet bør prioriteres for å få fullført prosjektet.")
+print("Erling må bestemme om det viktigste er å få motivasjonen opp på teamet eller om arbeidet må prioriteres.")
 #TODO LAGE ENDINGER BASERT PÅ VALGENE
 
 #TODO EVENTUELT LAGE POENGSYSTEM
