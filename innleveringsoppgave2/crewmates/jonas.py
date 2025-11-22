@@ -115,8 +115,3 @@ else:
 
 
 print("\nTakk for innsatsen, Erling! Du har nå fullført spillet.")
-
-
-
-
-
