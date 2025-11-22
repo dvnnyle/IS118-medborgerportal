@@ -150,7 +150,7 @@ else: # kombinasjon in [("B", "B", "B"), ("B", "A", "B")]:
 
 print(f"{BOLD}\nSluttresultat: {RESET}\n")
 print(utfall)
-print("\nTakk###\n")
+print("\nTakk for at du spilte vårt spill om konflikt håndering under ett prosjekt!\n")
 
 #TODO LAGE ENDINGER BASERT PÅ VALGENE
 
