@@ -99,9 +99,9 @@ print(F"{BOLD}\nSituasjon #3: {RESET}\n")
 print("Motivasjonen til flere på teamet begynner å synke.")
 print("Hallgeir ønsker mer sosialt innad i teamet for å skape bedre samhold.")
 print("Silje syntes at arbeidet bør prioriteres for å få fullført prosjektet.")
-print("Erling må bestemme om det viktigste er å få motivasjonen opp på teamet eller om arbeidet må prioriteres.")
+print("Erling må bestemme om det viktigste er å få motivasjonen opp på teamet eller om arbeidet må prioriteres.\n")
 
-print(f"{BOLD}Hva velger du å gjøre?{RESET}")
+print(f"{BOLD}Hva velger du å gjøre?{RESET}\n")
 
 valg3 = valg_a_b(
     "A) Velg å motiver laget med en belønning hvis arbeidet blir gjort og levert til fristen\n"
@@ -127,21 +127,21 @@ kombinasjon = (valg1, valg2, valg3)
 
 if kombinasjon in [("A", "A", "A"), ("B", "A", "A")]:
     utfall = (
-        f"{GREEN}Konflikten er {konflikt}, dialogen ble {dialog}. {RESET}"
+        f"{GREEN}Konflikten er {konflikt}, dialogen ble {dialog}, og motivasjonen er {motivasjon}. {RESET}"
         "Du tokk gode valg som førte til samhold i laget og at prosjektet ble gjennomført i tide og i good kvalitet."
         "Du hører på laget ditt og ser hver del av konfliktene, du viser good leder evnje og laget ditt kommer ut av projektet med god moral."
     )
 
 elif kombinasjon in [("A", "A", "B"), ("A", "B", "A"), ("A", "B", "B"), ("B", "B", "A")]:
     utfall = (
-        f"{YELLOW}Konflikten er {konflikt}, dialogen ble {dialog}. {RESET}"
+        f"{YELLOW}Konflikten er {konflikt}, dialogen ble {dialog}, og motivasjonen er {motivasjon}. {RESET}"
         "Du tokk beslutninger basert på magefølelsen din. Dette førte til at prosjektet ble levert i tide, men ikke uten problemer på veien. "
         "konflikter og diskusjoner innen laget førte til lav moral og forsinkelser. "
     )
 
 else: # kombinasjon in [("B", "B", "B"), ("B", "A", "B")]:
     utfall = (
-        f"{RED}Konflikten er {konflikt}, dialogen ble {dialog}. {RESET}"
+        f"{RED}Konflikten er {konflikt}, dialogen ble {dialog}, og motivasjonen er {motivasjon}. {RESET}"
         "Du velger å ta konflikter opp mellom partiene involvert istedenfor i plenum og noen ganger satser du på at konflikter kan løse seg selv. "
         "Dette fører til at laget i sin helhet mister tillit til hverandre og at konflikter ikke blir løst. " 
         "Dere klarer fortsatt å få levert i tide, men kvaliteten er langt ifra hvor den kunne hvert og moralen i laget er lav. "
