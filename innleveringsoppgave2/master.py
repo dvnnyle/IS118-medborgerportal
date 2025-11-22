@@ -4,7 +4,7 @@ BOLD = "\033[1m"
 RED = "\033[91m" 
 RESET = "\033[0m"
 
-
+# Funksjon som håndterer ja/nei-spørsmål
 def ja_nei(prompt)->bool:
     while True:
         svar = input(prompt + " (j/n): ").strip().upper()
@@ -14,9 +14,9 @@ def ja_nei(prompt)->bool:
         if svar in ['NEI', 'N']:
             return False
             
-        print("Ugyldig svar - vennligst svar med 'JA' eller 'NEI'.")
+        print(f"{BOLD}{RED}\nUgyldig svar - vennligst svar med 'JA' eller 'NEI'.\n{RESET}")
         
-
+# Funksjon som håndterer A/B-valg og ugyldig input
 def valg_a_b(prompt):
     while True:
         valg = input(prompt + "\nVelg: A eller B:\n").strip().upper()
@@ -24,7 +24,7 @@ def valg_a_b(prompt):
         if valg in ['A', 'B']:
             return valg
             
-        print("Ugyldig svar - vennligst svar med 'A' eller 'B'.")
+        print(f"{BOLD}{RED}\nUgyldig svar - vennligst svar med 'A' eller 'B'.\n{RESET}")
 
 ###########
 
@@ -100,6 +100,48 @@ print("Silje syntes at arbeidet bør prioriteres for å få fullført prosjektet
 print("Erling må bestemme om det viktigste er å få motivasjonen opp på teamet eller om arbeidet må prioriteres.")
 
 print(f"{BOLD}Hva velger du å gjøre?{RESET}")
+
+valg3 = valg_a_b(
+    "A) ###\n"
+    "B) ###\n"
+    )
+
+if valg3 == "A":
+    motivasjon = "###"
+    print(
+        "###."
+    )
+else:
+    motivasjon = "###"
+    print(
+        "###."
+    )
+
+print("\n---------------")
+
+# Kombinerer valgene til en tuple som brukes for å bestemme sluttuttfall
+utfall = None
+kombinasjon = (valg1, valg2, valg3)
+
+if kombinasjon in [("A", "A", "A"), ("B", "A", "A")]:
+    utfall = (
+        "### good ending."
+    )
+
+elif kombinasjon in [("A", "A", "B"), ("A", "B", "A"), ("A", "B", "B"), ("B", "B", "A")]:
+    utfall = (
+        "### mixed ending."
+    )
+
+else: # kombinasjon in [("B", "B", "B"), ("B", "A", "B")]:
+    utfall = (
+        "### bad ending."
+    )
+
+
+print(f"{BOLD}\nSluttresultat: {RESET}\n")
+print(utfall)
+print("\nTakk###\n")
 
 #TODO LAGE ENDINGER BASERT PÅ VALGENE
 
