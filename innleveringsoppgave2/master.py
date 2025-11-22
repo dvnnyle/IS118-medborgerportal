@@ -109,7 +109,7 @@ valg3 = valg_a_b(
     )
 
 if valg3 == "A":
-    motivasjon = "Belønning"
+    motivasjon = "belønning"
     print(
         "Du velger å gi ut sjansen på en belønning hvis laget klarer å levere produktet på tide med god kvalitet, dette fører til høyere arbeidsmoral og en sosial helhet innen laget, hvor de alle jobber mot ett mål."
     )
