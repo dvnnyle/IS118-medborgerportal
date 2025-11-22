@@ -1,7 +1,7 @@
 print("Erlings spill for konflikt håndtering\n")
 print("I dette spillet spiller du som Erlend prosjektleder\n")
 print("Teamet velger å ha et møte for å diskutere utfordringer som har oppstått i prosjektet\n")
-print("I dette spillet går du gjennom 5 scenarioer der du må velge hvordan du vil håndtere konfliktene\n")
+print("I dette spillet går du gjennom 3 scenarioer der du må velge hvordan du vil håndtere konfliktene\n")
 print("Skriv A eller B for å velge svar i de forskjellige scenarioene\n")
 print("Er du klar for å starte?\n")
 
