@@ -1,4 +1,4 @@
-
+# CrewMate Simulator - Hans' versjon mye inspirasjon tatt fra Dannys fil innleveringsoppgave2 
 print ("Velkommen til CrewMate Simulator\n")
 print("Du er prosjektleder for et viktig kommunalt IT-prosjekt.\n")
 print("Teamet ditt består av dyktige, men og kvinner med sterke meninger.\n")
@@ -7,6 +7,7 @@ print("Skriv 'A' eller 'B' for hvert valg.\n")
 print("Er du klar?")
 svar = input(" Skriv JA eller NEI: ").upper()
 
+#if-else for å starte eller avslutte spillet basert på brukerens input
 if svar == "JA":
     print("Flott! La oss begynne!\n")
 elif svar == "NEI":
@@ -15,7 +16,7 @@ elif svar == "NEI":
 else:
     print("Ugyldig svar.\n")
 
-
+# starten av spillet med (if/elif/else statements) valg og konsekvenser som blir lagret i variabler for senere oppsummering
 print(" Level 1: \n")
 print("Henriette (designer) og Herman (IT-rådgiver) er uenige om teknologivalg. Hvordan kan vi best løse problemet før det eskalerer?")
 level1 = input("A) Tar det opp i plenum\nB) Snakker med dem hver for seg\n> ").lower()
@@ -54,6 +55,7 @@ elif level3 == "b":
 else:
     print("Ugyldig valg! Velger automatisk A.")
     motivasjon = "høy"
+
 print("\n Level 4: \n")
 print("En av teammedlemmene, Herman, virker misfornøyd med arbeidsbelastningen sin. Hva gjør du?")
 level4 = input("A) Snakker med ham for å forstå hans bekymringer\n B) Ignorerer det, han må bare takle det\n> ").lower()
@@ -66,6 +68,7 @@ elif level4 == "b":
 else:
     print("Ugyldig valg! Velger automatisk A.")
     arbeidsbelastning = "forstått"
+
 print("\n Level 5: \n")
 print("Kommunedirektøren etterspør rask fremdrift. Hva sier du?")
 level5 = input("A) Lover rask leveranse\nB) Forklarer at kvalitet tar tid\n> ").lower()
@@ -86,6 +89,7 @@ if konflikt == "åpen" and dialog == "bedre" and motivasjon == "høy" and arbeid
 else:
     print("Du gjorde ditt beste! Hver leder lærer av sine erfaringer. Prøv igjen for å forbedre dine ferdigheter!" )
 
+# oppsummering av valg tatt underveis i "spillet" brukt under for å beregne poeng i et scroing system.
 print ("\nHer er en oppsummering av dine valg:\n")
 print(f"Konflikthåndtering: {konflikt}")
 print(f"Dialog mellom teammedlemmer: {dialog}")
@@ -93,7 +97,7 @@ print(f"Motivasjonsnivå: {motivasjon}")
 print(f"Arbeidsbelastning: {arbeidsbelastning}")
 print(f"Press fra ledelsen: {press}")
 
-# Beregn poeng: gi poeng for gode valg, trekk for negative valg, og normaliser til 0-5
+# gi poeng for gode valg, trekk for negative valg, og normaliser til 0-5 (minus poeng er redundant i denne filen på grunn av få spørsmål men er med for eksempelts skyld)
 score = 0
 if konflikt == "rolig":
     score += 1
@@ -120,7 +124,7 @@ if press == "balansert":
 elif press == "høyt":
     score -= 1
 
-# Sikre at score ligger innenfor 0 til 5
+# Sikre at score ligger innenfor 0 til 5 (ved en større fil med flere spørsmål er dette mer relevant siden kunn ett feil svar gir deg midway resultat pga. minus poeng)
 score = max(0, min(5, score))
 
 print(f"\nDin poengsum: {score} av 5")
