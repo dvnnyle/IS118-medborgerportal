@@ -22,6 +22,13 @@ else:
     print("LOL, Du har ikke noe valg. Starter simulasjonen likevel...\n")
 
 
+#TODO LAGE NIVÅER / SITUASJONER
+
+#TODO LAGE ENDINGER BASERT PÅ VALGENE
+
+#TODO EVENTUELT LAGE POENGSYSTEM
+=======
+
 print(" Level 1: \n")
 print("Konflikt 1: Silje (designer) og Sivert (IT-rådgiver) er uenige teknologivalg og design. Konflikten har eskalert fra en sakskonflikt til en personkonflikt")
 print("Silje mener løsningen til Sivert vil låse brukeropplevelsen og hindre innovasjon.")
