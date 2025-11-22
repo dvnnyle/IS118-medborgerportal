@@ -3,6 +3,8 @@
 BOLD = "\033[1m"
 RED = "\033[91m" 
 RESET = "\033[0m"
+GREEN = "\033[92m"
+YELLOW = "\033[93m"
 
 # Funksjon som håndterer ja/nei-spørsmål
 def ja_nei(prompt)->bool:
@@ -97,24 +99,24 @@ print(F"{BOLD}\nSituasjon #3: {RESET}\n")
 print("Motivasjonen til flere på teamet begynner å synke.")
 print("Hallgeir ønsker mer sosialt innad i teamet for å skape bedre samhold.")
 print("Silje syntes at arbeidet bør prioriteres for å få fullført prosjektet.")
-print("Erling må bestemme om det viktigste er å få motivasjonen opp på teamet eller om arbeidet må prioriteres.")
+print("Erling må bestemme om det viktigste er å få motivasjonen opp på teamet eller om arbeidet må prioriteres.\n")
 
-print(f"{BOLD}Hva velger du å gjøre?{RESET}")
+print(f"{BOLD}Hva velger du å gjøre?{RESET}\n")
 
 valg3 = valg_a_b(
-    "A) ###\n"
-    "B) ###\n"
+    "A) Velg å motiver laget med en belønning hvis arbeidet blir gjort og levert til fristen\n"
+    "B) Velg å minne laget på rollene de spiller i laget og at det er en jobb hvor prosjektet må prioriteres over annet\n"
     )
 
 if valg3 == "A":
-    motivasjon = "###"
+    motivasjon = "Belønning"
     print(
-        "###."
+        "Du velger å gi ut sjansen på en belønning hvis laget klarer å levere produktet på tide med god kvalitet, dette fører til høyere arbeidsmoral og en sosial helhet innen laget, hvor de alle jobber mot ett mål."
     )
 else:
-    motivasjon = "###"
+    motivasjon = "påmminelse"
     print(
-        "###."
+        "Du velger å følge Siljes synspunkt og prioriterer arbeid over det sosiale. Det funker og arbeidet blir gjort, men det du merker at spenningen er høy og at laget har lav moral."
     )
 
 print("\n---------------")
@@ -125,17 +127,24 @@ kombinasjon = (valg1, valg2, valg3)
 
 if kombinasjon in [("A", "A", "A"), ("B", "A", "A")]:
     utfall = (
-        "### good ending."
+        f"{GREEN}Konflikten er {konflikt}, dialogen ble {dialog}, og motivasjonen er {motivasjon}. {RESET}"
+        "Du tokk gode valg som førte til samhold i laget og at prosjektet ble gjennomført i tide og i good kvalitet."
+        "Du hører på laget ditt og ser hver del av konfliktene, du viser good leder evnje og laget ditt kommer ut av projektet med god moral."
     )
 
 elif kombinasjon in [("A", "A", "B"), ("A", "B", "A"), ("A", "B", "B"), ("B", "B", "A")]:
     utfall = (
-        "### mixed ending."
+        f"{YELLOW}Konflikten er {konflikt}, dialogen ble {dialog}, og motivasjonen er {motivasjon}. {RESET}"
+        "Du tokk beslutninger basert på magefølelsen din. Dette førte til at prosjektet ble levert i tide, men ikke uten problemer på veien. "
+        "konflikter og diskusjoner innen laget førte til lav moral og forsinkelser. "
     )
 
 else: # kombinasjon in [("B", "B", "B"), ("B", "A", "B")]:
     utfall = (
-        "### bad ending."
+        f"{RED}Konflikten er {konflikt}, dialogen ble {dialog}, og motivasjonen er {motivasjon}. {RESET}"
+        "Du velger å ta konflikter opp mellom partiene involvert istedenfor i plenum og noen ganger satser du på at konflikter kan løse seg selv. "
+        "Dette fører til at laget i sin helhet mister tillit til hverandre og at konflikter ikke blir løst. " 
+        "Dere klarer fortsatt å få levert i tide, men kvaliteten er langt ifra hvor den kunne hvert og moralen i laget er lav. "
     )
 
 
