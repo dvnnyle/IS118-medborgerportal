@@ -152,48 +152,6 @@ print(f"{BOLD}\nSluttresultat: {RESET}\n")
 print(utfall)
 print("\nTakk for at du spilte vårt spill om konflikt håndering under ett prosjekt!\n")
 
-valg3 = valg_a_b(
-    "A) ###\n"
-    "B) ###\n"
-    )
-
-if valg3 == "A":
-    motivasjon = "###"
-    print(
-        "###."
-    )
-else:
-    motivasjon = "###"
-    print(
-        "###."
-    )
-
-print("\n---------------")
-
-# Kombinerer valgene til en tuple som brukes for å bestemme sluttuttfall
-utfall = None
-kombinasjon = (valg1, valg2, valg3)
-
-if kombinasjon in [("A", "A", "A"), ("B", "A", "A")]:
-    utfall = (
-        "### good ending."
-    )
-
-elif kombinasjon in [("A", "A", "B"), ("A", "B", "A"), ("A", "B", "B"), ("B", "B", "A")]:
-    utfall = (
-        "### mixed ending."
-    )
-
-else: # kombinasjon in [("B", "B", "B"), ("B", "A", "B")]:
-    utfall = (
-        "### bad ending."
-    )
-
-
-print(f"{BOLD}\nSluttresultat: {RESET}\n")
-print(utfall)
-print("\nTakk###\n")
-
 #TODO LAGE ENDINGER BASERT PÅ VALGENE
 
 #TODO EVENTUELT LAGE POENGSYSTEM
