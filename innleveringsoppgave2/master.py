@@ -111,8 +111,8 @@ valg3 = valg_a_b(
 if valg3 == "A":
     motivasjon = "høy"    # Motivasjonsnivået brukes i sluttresultatet
     print(
-        "Du velger å motivere teamet med en mulig belønning dersom dere leverer produktet i tide med god kvalitet,\n"
-        "dette fører til høyere arbeidsmoral og en sosial helhet innen teamet, hvor de alle jobber mot ett mål.\n"
+        "Du velger å motivere teamet med en mulig belønning dersom dere leverer produktet i tide med god kvalitet.\n"
+        "Dette fører til høyere arbeidsmoral og en sosial helhet innen teamet, hvor de alle jobber mot ett mål.\n"
     )
 else:
     motivasjon = "lav"    # Motivasjonsnivået brukes i sluttresultatet
