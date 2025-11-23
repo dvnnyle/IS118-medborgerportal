@@ -10,7 +10,7 @@ YELLOW = "\033[93m"
 # Funksjon som håndterer ja/nei-spørsmål og ugyldig input
 def ja_nei(prompt)->bool:
     while True:
-        svar = input(prompt + " (j/n): ").strip().upper()
+        svar = input(prompt + f"Tast inn: {BOLD}ja{RESET} eller {BOLD}nei{RESET}: ").strip().upper()
         
         if svar in ['JA', 'J']:
             return True
@@ -22,7 +22,7 @@ def ja_nei(prompt)->bool:
 # Funksjon som håndterer A/B-valg og ugyldig input
 def valg_a_b(prompt):
     while True:
-        valg = input(prompt + "\nVelg: A eller B:\n").strip().upper()
+        valg = input(prompt + "\nTast inn: A eller B:").strip().upper()
         
         if valg in ['A', 'B']:
             print()
@@ -31,12 +31,12 @@ def valg_a_b(prompt):
         print(f"{BOLD}{RED}\nUgyldig svar - vennligst svar med 'A' eller 'B'.\n{RESET}")
 
 
-print(f"{BOLD}{RED}\nErlings Prosjekt \n{RESET}")
+print(f"{BOLD}{GREEN}\nErlings Prosjekt \n{RESET}")
 print("Du spiller som Erling, prosjektleder for kommunens nye medborgerportal.")
 print("Teamet begynner å møte utfordringer. Du må ta tre viktige valg for å lede dem videre.\n")
 
 
-if not ja_nei("Vil du starte prosjektet?"):
+if not ja_nei("Vil du starte prosjektet?\n"):
     print("Ingen problem. Kom tilbake når du er klar.")
     exit()
 
@@ -47,7 +47,7 @@ while restart:
     
 
 # --- Situasjon 1: Konflikt mellom Silje og Sivert ---
-    print(F"{BOLD}\nSituasjon #1: {RESET}\n")
+    print(F"{BOLD}{YELLOW}\nSituasjon #1: {RESET}")
 
     print("Silje (designer) og Sivert (IT-rådgiver) er uenige om teknologivalg og design. Konflikten har eskalert fra en sakskonflikt til en personkonflikt.")
     print("Silje mener løsningen til Sivert vil låse brukeropplevelsen og hindre innovasjon.")
@@ -73,7 +73,7 @@ while restart:
         )
 
 # --- Situasjon 2: Lavmælt konflikt mellom hamdi og Jabir ---
-    print(F"{BOLD}\nSituasjon #2: {RESET}\n")
+    print(F"{BOLD}{YELLOW}\nSituasjon #2: {RESET}")
 
     print("Hamdi (kulturavdelingen) og Jabir (brukerrepresentant) er uenige om plattformens funksjoner.")
     print("Hamdi ønsker en plattform som fremmer innbyggerdialog og kulturelle arrangementer.")
@@ -99,7 +99,7 @@ while restart:
         )
 
 # --- Situasjon 3: Valg om motivasjon og arbeidsprioritering ---
-    print(F"{BOLD}\nSituasjon #3: {RESET}\n")
+    print(F"{BOLD}{YELLOW}\nSituasjon #3: {RESET}")
 
     print("Motivasjonen til flere på teamet begynner å synke.")
     print("Hallgeir ønsker mer sosialt innad i teamet for å skape bedre samhold.")
@@ -142,7 +142,7 @@ while restart:
 
     elif kombinasjon in [("A", "A", "B"), ("A", "B", "A"), ("A", "B", "B"), ("B", "B", "A")]:
         utfall = (
-            f"{YELLOW}Konflikten er {konflikt}, dialogen ble {dialog}, og motivasjonen er {motivasjon}.{RESET}\n"
+            f"{RED}Konflikten er {konflikt}, dialogen ble {dialog}, og motivasjonen er {motivasjon}.{RESET}\n"
             "Du tok beslutninger basert på magefølelsen din. Dette førte til at prosjektet ble levert i tide, men ikke uten problemer på veien.\n"
             "Konflikter og diskusjoner innen teamet førte til lav moral og forsinkelser. "
         )
@@ -179,7 +179,7 @@ while restart:
 # sikre at score ligger innenfor 0 til 3
     score = max(0, min(3, score))
 
-    print(f"\nDin Score: {score} av 3") # maks score er 3 i denne filen fordi det er 3 situasjoner/valg
+    print(f"\n{BOLD}Din Score: {score} av 3{RESET}") # maks score er 3 i denne filen fordi det er 3 situasjoner/valg
     if score == 3: #max score
         print("Bra jobbet! du har navigert gjennom simulasjonen suksessfullt og tatt gode valg underveis! 🌟")
 
@@ -193,7 +193,7 @@ while restart:
     print("\n---------------\n")
 # Spørre bruker om de ønsker å spille igjen. gjenbruk av ja_nei funksjonen
 
-    print("ønsker du å prøve Simulatoren igjen? (ja/j eller nei/n)")
+    print("Ønsker du å prøve Simulatoren igjen? (ja/j eller nei/n)")
     svar = input("ja/j eller nei/n: ").strip().upper()
 
 
