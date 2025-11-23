@@ -205,7 +205,7 @@ while restart:
 
     elif svar in ['NEI','nei', 'n', 'N']:
         print("Takk for at du spilte! Ha en fin dag!\n")
-        restart = False
+        restart = False #avslutter loopen
         exit() # Avslutter programmet
 
     else:
