@@ -32,7 +32,7 @@ def valg_a_b(prompt):
 
 def spill():
 
-        print("\n---------------")
+        print("\n---------------")   # --- SPILL STARTER ---
     
     # --- Situasjon 1: Konflikt mellom Silje og Sivert ---
         print(F"{BOLD}{YELLOW}\nSituasjon #1: {RESET}")
@@ -143,7 +143,7 @@ def spill():
                 "Prosjektet leveres riktignok i tide, men kvaliteten er langt under forventningene, og moralen i teamet er svært lav."
             )
     
-    
+     # --- ENDING: RESULTATER ---
         print(f"{BOLD}\nSluttresultat: {RESET}\n")
         print(utfall)
         print("\nTakk for at du spilte vårt spill om konflikthåndtering under ett prosjekt!\n")
@@ -190,3 +190,5 @@ while True:
     if not ja_nei("Ønsker du å spille igjen?\n"):
         print("Takk for at du spilte! Ha en fin dag!")
         break
+
+     # --- SLUTT ---
