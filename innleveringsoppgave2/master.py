@@ -184,7 +184,7 @@ if not ja_nei("Vil du starte prosjektet?\n"):
     print("Ingen problem. Kom tilbake når du er klar.")
     exit()
 
- Jonas
+
 print("\n---------------")
 
 #TODO LAGE NIVÅER / SITUASJONER
@@ -305,6 +305,6 @@ while True:
     if not ja_nei("Ønsker du å spille igjen?\n"):
         print("Takk for at du spilte! Ha en fin dag!")
         break
- main
+ 
 
      # --- SLUTT ---
