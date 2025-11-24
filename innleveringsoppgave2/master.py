@@ -190,3 +190,7 @@ while True:
     if not ja_nei("Ønsker du å spille igjen?\n"):
         print("Takk for at du spilte! Ha en fin dag!")
         break
+
+
+test
+
