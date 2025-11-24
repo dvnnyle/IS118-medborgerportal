@@ -50,12 +50,12 @@ def spill():
             )
     
         if valg1 == "A":
-            konflikt = "åpen"    # Konfliktstatus brukes i sluttresultatet
+            konflikt = "åpen"    # Konfliktstatus brukes i sluttresultatet og score
             print(
                 "Du tar det opp i plenum. Stemningen er spent, men alle får samme informasjon.\n"
             )
         else:
-            konflikt = "dempet"    # Konfliktstatus brukes i sluttresultatet
+            konflikt = "dempet"    # Konfliktstatus brukes i sluttresultatet og score
             print(
                 "Du snakker med dem individuelt. Konflikten roer seg litt mellom de involverte.\n"
             )
@@ -76,12 +76,12 @@ def spill():
             )
     
         if valg2 == "A":
-            dialog = "bedre"    # Dialogutvikling brukes i sluttresultatet
+            dialog = "bedre"    # Dialogutvikling brukes i sluttresultatet og score
             print(
                 "Du tar initiativ til et felles møte. Det bidrar til å avklare forventninger og redusere misforståelser.\n"
             )
         else:
-            dialog = "forverret"    # Dialogutvikling brukes i sluttresultatet
+            dialog = "forverret"    # Dialogutvikling brukes i sluttresultatet og score
             print(
                 "Du velger å avvente. Noen ganger kan konflikter løse seg selv, men det er en risiko for at situasjonen forverres.\n"
             )
@@ -102,13 +102,13 @@ def spill():
             )
     
         if valg3 == "A":
-            motivasjon = "høy"    # Motivasjonsnivået brukes i sluttresultatet
+            motivasjon = "høy"    # Motivasjonsnivået brukes i sluttresultatet og score
             print(
                 "Du velger å motivere teamet med en mulig belønning dersom dere leverer produktet i tide med god kvalitet.\n"
                 "Dette fører til høyere arbeidsmoral og en sosial helhet innen teamet, hvor de alle jobber mot ett mål.\n"
             )
         else:
-            motivasjon = "lav"    # Motivasjonsnivået brukes i sluttresultatet
+            motivasjon = "lav"    # Motivasjonsnivået brukes i sluttresultatet og score
             print(
                 "Du velger å følge Siljes synspunkt og prioriterer arbeid over det sosiale.\n"
                 "Det fungerer, og arbeidet blir gjort, men du merker at spenningen er høy og at teamet har lav moral.\n"
